@@ -1,0 +1,1450 @@
+{
+  "question_id": "conv0_q116",
+  "conversation_idx": 0,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What inspired Caroline's painting for the art show?",
+  "ground_truth_answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+  "evidence": [
+    "D9:16"
+  ],
+  "user_id": "locomo_0_ff458a1c",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What inspired Caroline's painting for the art show?",
+    "search_results": [
+      {
+        "memory": "Caroline views being herself as a great feeling and describes her journey of self-discovery as an ongoing adventure of learning and growing",
+        "score": 0.6123475333333334,
+        "id": "8f95dad3-9f26-48f4-81d2-22480ea0ae5b",
+        "created_at": "2026-11-11T06:20:20.452201+00:00",
+        "updated_at": "2026-11-11T06:20:20.452201+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her, promoting LGBTQ rights, and living authentically, and she wants to help others do the same",
+        "score": 0.5890308666666667,
+        "id": "fdb893d6-4989-42c1-9bf5-f99c531dd9f5",
+        "created_at": "2026-11-11T06:17:34.143806+00:00",
+        "updated_at": "2026-11-11T06:17:34.143806+00:00"
+      },
+      {
+        "memory": "Caroline reflected on 'Charlotte's Web' that friendship and compassion are important, and said it made her appreciate how lucky she is to have her friends and family helping with her transition, saying they make all the difference",
+        "score": 0.5559800540504648,
+        "id": "14730b30-9269-45ac-9a22-734458e72318",
+        "created_at": "2026-11-11T06:13:08.391003+00:00",
+        "updated_at": "2026-11-11T06:13:08.391003+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen who is also transgender like her, working on building confidence and positive strategies, and finds the mentoring rewarding and inspiring due to the young people's resilience",
+        "score": 0.5538145333333333,
+        "id": "593f9635-5f1e-47e8-9cce-b5c79444d2b9",
+        "created_at": "2026-11-11T06:15:21.023353+00:00",
+        "updated_at": "2026-11-11T06:15:21.023353+00:00"
+      },
+      {
+        "memory": "Caroline shared a recent painting featuring vibrant colors and diverse representation, shown alongside a paintbrush and paint",
+        "score": 0.5190653549138076,
+        "id": "ef0268ca-d1de-4900-a4b6-13e5610e1768",
+        "created_at": "2026-11-11T06:16:17.292338+00:00",
+        "updated_at": "2026-11-11T06:16:17.292338+00:00"
+      },
+      {
+        "memory": "Caroline associates sunflowers with warmth and happiness, and roses with love and beauty, and finds flower symbolism neat",
+        "score": 0.5113493,
+        "id": "c4ae97aa-0daa-42ca-8d43-7ddd6aa31e24",
+        "created_at": "2026-11-11T06:14:20.637536+00:00",
+        "updated_at": "2026-11-11T06:14:20.637536+00:00"
+      },
+      {
+        "memory": "Caroline says painting and drawing have helped her express her feelings and explore her gender identity, and that creating art was really important to her during her transition",
+        "score": 0.48321798824714096,
+        "id": "b64b3100-8d72-4f7b-a9d2-0624935a746b",
+        "created_at": "2026-11-11T06:19:34.783048+00:00",
+        "updated_at": "2026-11-11T06:19:34.783048+00:00"
+      },
+      {
+        "memory": "Caroline felt liberated and empowered while painting her blue-faced self-portrait, saying painting helps her explore her identity, be true to herself, and is therapeutic",
+        "score": 0.4782182882471409,
+        "id": "045b9f9d-72c5-4ff7-9738-222596fdb419",
+        "created_at": "2026-11-11T06:17:23.229233+00:00",
+        "updated_at": "2026-11-11T06:17:23.229233+00:00"
+      },
+      {
+        "memory": "Caroline finds painting therapeutic and says it helps her explore her identity, express herself, and be true to herself",
+        "score": 0.4746775149138076,
+        "id": "d2ce2e8a-0cec-42a5-be1a-91bef24217c3",
+        "created_at": "2026-11-11T06:17:34.140964+00:00",
+        "updated_at": "2026-11-11T06:17:34.140964+00:00"
+      },
+      {
+        "memory": "Caroline says painting and drawing have helped her express her feelings and explore her gender identity, and that creating art was really important to her during her transition, helping her understand and accept herself; she feels grateful for this",
+        "score": 0.47033148824714094,
+        "id": "606fddc8-bc46-44df-adc6-32803ccbfd9e",
+        "created_at": "2026-11-11T06:19:22.317941+00:00",
+        "updated_at": "2026-11-11T06:19:22.317941+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around early November 2026, featuring a woman with a blue face and vibrant colors, and says painting is great for expressing herself and she loves creating art",
+        "score": 0.46643268824714096,
+        "id": "0a1b3d41-198b-4470-8030-32b2ad4eab2e",
+        "created_at": "2026-11-11T06:17:20.783535+00:00",
+        "updated_at": "2026-11-11T06:17:20.783535+00:00"
+      },
+      {
+        "memory": "Caroline's painting uses red and blue to represent the binary gender system, with the mix of colors symbolizing smashing that rigid thinking; it serves as a reminder to love her authentic self, and she says it took a while but she is finally proud of who she is",
+        "score": 0.4644673215804742,
+        "id": "d4879897-2ea0-4d67-a616-4317aec2a6d5",
+        "created_at": "2026-11-11T06:19:34.779934+00:00",
+        "updated_at": "2026-11-11T06:19:34.779934+00:00"
+      },
+      {
+        "memory": "Caroline has recently been trying out abstract painting, which she finds freeing — putting her feelings on the canvas without too much of a plan, and describes it as a cool form of self-expression",
+        "score": 0.46442362158047423,
+        "id": "3a4a887b-ae30-465d-ab86-92f9376a4da0",
+        "created_at": "2026-11-11T06:20:03.035510+00:00",
+        "updated_at": "2026-11-11T06:20:03.035510+00:00"
+      },
+      {
+        "memory": "Caroline created a painting titled 'Embracing Identity' about finding comfort and love in being yourself; the woman in the painting represents the journey of acceptance, and Caroline's aim was to show warmth, love, and self-acceptance",
+        "score": 0.4636980882471409,
+        "id": "b6e85510-f9bf-4907-be27-29b77142b473",
+        "created_at": "2026-11-11T06:16:23.832217+00:00",
+        "updated_at": "2026-11-11T06:16:23.832217+00:00"
+      },
+      {
+        "memory": "Melanie praised Caroline's art, saying she loves how Caroline uses it to tell her stories and teach people about trans people, and asked to see another of Caroline's paintings",
+        "score": 0.4607290882471409,
+        "id": "293297e1-9c66-42f6-a5ac-530275e60674",
+        "created_at": "2026-11-11T06:16:22.393131+00:00",
+        "updated_at": "2026-11-11T06:16:22.393131+00:00"
+      },
+      {
+        "memory": "Caroline made a painting with a red and blue background to represent her path as a trans woman: the red and blue symbolize the binary gender system, and the mix of colors represents smashing that rigid thinking; it serves as a reminder to love her authentic self, and she says it took a while to get there but she is finally proud of who she is",
+        "score": 0.44902508824714094,
+        "id": "69389b92-6040-4b18-8136-72ef759e55aa",
+        "created_at": "2026-11-11T06:19:27.515348+00:00",
+        "updated_at": "2026-11-11T06:19:27.515348+00:00"
+      },
+      {
+        "memory": "Caroline loves art and says it gives her joy, helps her express her feelings, and lets her capture beautiful moments; drawing flowers is one of her favorite subjects",
+        "score": 0.44715055491380756,
+        "id": "6d4642f9-ed44-4f44-b01b-0da17200cbd7",
+        "created_at": "2026-11-11T06:18:24.628205+00:00",
+        "updated_at": "2026-11-11T06:18:24.628205+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a painting of a woman with a cow in her lap as an example of her recent artwork",
+        "score": 0.44604606824714094,
+        "id": "c03e744c-3b61-4af5-bcee-bc3e509ab9c1",
+        "created_at": "2026-11-11T06:16:20.668573+00:00",
+        "updated_at": "2026-11-11T06:16:20.668573+00:00"
+      },
+      {
+        "memory": "Caroline creates art and painted a recent self-portrait with vibrant colors featuring a woman with a blue face, made around early November 2026; she felt liberated and empowered while painting it",
+        "score": 0.4452034,
+        "id": "5dac46a9-488f-4bb7-abd1-58122fecbffb",
+        "created_at": "2026-11-11T06:17:34.138483+00:00",
+        "updated_at": "2026-11-11T06:17:34.138483+00:00"
+      },
+      {
+        "memory": "Caroline shared a painting on an easel with a red and blue background and colorful brush strokes, made to represent her path as a trans woman",
+        "score": 0.4445749549138076,
+        "id": "8bd50b47-7bfa-4bc8-8e2f-42b87555b0f6",
+        "created_at": "2026-11-11T06:19:34.773498+00:00",
+        "updated_at": "2026-11-11T06:19:34.773498+00:00"
+      },
+      {
+        "memory": "Melanie praised Caroline's painting, saying she has made so much progress, and told Caroline she is proud of her for being her true self; Melanie asked Caroline what effect her journey has had on her relationships",
+        "score": 0.44454802158047424,
+        "id": "15821873-aad0-4644-b8c3-d7ecef00e51a",
+        "created_at": "2026-11-11T06:19:29.172523+00:00",
+        "updated_at": "2026-11-11T06:19:29.172523+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview of her painting for her upcoming LGBTQ art show — a painting of a tree with a bright sun in the background",
+        "score": 0.4435423149138076,
+        "id": "8fd46adc-8491-40a1-812c-d474d26be14c",
+        "created_at": "2026-11-11T06:15:22.700313+00:00",
+        "updated_at": "2026-11-11T06:15:22.700313+00:00"
+      },
+      {
+        "memory": "Caroline says art can be a real mood-booster and that creativity can lighten someone's day; she felt happy seeing someone drawing on the ground recently",
+        "score": 0.4426690882471409,
+        "id": "27b61e6f-72be-4e7c-a00e-c0ad3f14bc49",
+        "created_at": "2026-11-11T06:18:10.229626+00:00",
+        "updated_at": "2026-11-11T06:18:10.229626+00:00"
+      },
+      {
+        "memory": "Caroline is inspired by seeing her art make a difference for the LGBTQ+ community and finds it amazing to know she is helping create a more loving world",
+        "score": 0.4421186015804743,
+        "id": "ad6399fd-8f28-40e8-9399-ff9372d2999d",
+        "created_at": "2026-11-11T06:19:15.944304+00:00",
+        "updated_at": "2026-11-11T06:19:15.944304+00:00"
+      },
+      {
+        "memory": "Caroline is thankful for the support of her friends, family, and mentors, which inspires her to keep making art",
+        "score": 0.4417383549138076,
+        "id": "99d7b126-fedb-4c52-8100-2decc1b56fc6",
+        "created_at": "2026-11-11T06:19:15.946774+00:00",
+        "updated_at": "2026-11-11T06:19:15.946774+00:00"
+      },
+      {
+        "memory": "Caroline has been creating art since she was about 17 years old, and finds it empowering and cathartic, noting that art can express things that are hard to put into words",
+        "score": 0.44143870824714093,
+        "id": "2dd04b43-a687-4b9c-a3a2-a393824a63ed",
+        "created_at": "2026-11-11T06:19:19.100679+00:00",
+        "updated_at": "2026-11-11T06:19:19.100679+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a canvas painting of a heart in rainbow colors on a table",
+        "score": 0.4396202482471409,
+        "id": "c37c3639-6493-43b6-9356-c33d99e7f764",
+        "created_at": "2026-11-11T06:19:15.948963+00:00",
+        "updated_at": "2026-11-11T06:19:15.948963+00:00"
+      },
+      {
+        "memory": "Caroline says art has allowed her to explore her transition and her changing body, and it's been a great way to work through what she's going through; she loves that it teaches her to accept the beauty of imperfections",
+        "score": 0.43719722158047425,
+        "id": "355b435c-37f0-4f7a-b5a3-d38f59914e84",
+        "created_at": "2026-11-11T06:16:26.606215+00:00",
+        "updated_at": "2026-11-11T06:16:26.606215+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie what type of art she loves",
+        "score": 0.4368682215804742,
+        "id": "52a893d1-d150-4bbb-b7eb-23c26c4895e7",
+        "created_at": "2026-11-11T06:18:15.926735+00:00",
+        "updated_at": "2026-11-11T06:18:15.926735+00:00"
+      },
+      {
+        "memory": "Caroline says art gives her so much joy, helping her show her feelings and freeze gorgeous moments like a bouquet of flowers; she shared a drawing of a bunch of flowers on a table",
+        "score": 0.4362451149138076,
+        "id": "b928a3b0-6ee2-4333-9505-f99b70789fcd",
+        "created_at": "2026-11-11T06:18:12.992970+00:00",
+        "updated_at": "2026-11-11T06:18:12.992970+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a painting she made on an easel with a red and blue background and colourful brush strokes, around November 11, 2026",
+        "score": 0.4338287815804742,
+        "id": "bc0f2e9b-0a79-4d9c-8644-47c915080f1a",
+        "created_at": "2026-11-11T06:19:24.950531+00:00",
+        "updated_at": "2026-11-11T06:19:24.950531+00:00"
+      },
+      {
+        "memory": "Caroline has been creating art since she was around 17, finding it empowering and cathartic, and says art can express things that are hard to put into words",
+        "score": 0.4326846882471409,
+        "id": "1fe82a8d-7376-4a27-a65c-3fe721512ea5",
+        "created_at": "2026-11-11T06:19:34.759888+00:00",
+        "updated_at": "2026-11-11T06:19:34.759888+00:00"
+      },
+      {
+        "memory": "Caroline shared an image of a building with a large eagle painted on it, describing murals like this as really special to her",
+        "score": 0.43237115491380756,
+        "id": "d63e66b4-b216-4ce1-ab91-e3e49472ef6d",
+        "created_at": "2026-11-11T06:17:52.850222+00:00",
+        "updated_at": "2026-11-11T06:17:52.850222+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's lake sunrise painting, saying the colors blend nicely, and remarked that painting seems like a great outlet for expressing yourself",
+        "score": 0.4299048215804742,
+        "id": "5d3aac7d-9df1-4813-81e4-31362c70a43e",
+        "created_at": "2026-11-11T06:10:59.008434+00:00",
+        "updated_at": "2026-11-11T06:10:59.008434+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline for previews of her paintings ahead of the LGBTQ art show and shared a photo of a painting with a blue and yellow design",
+        "score": 0.42608232824714093,
+        "id": "bf49ff16-bfd3-408b-a374-dd9b2b12469a",
+        "created_at": "2026-11-11T06:15:21.039133+00:00",
+        "updated_at": "2026-11-11T06:15:21.039133+00:00"
+      },
+      {
+        "memory": "Caroline says art gives her a sense of freedom, and so does having supportive people around, promoting LGBTQ rights, and being true to herself; she wants to live authentically and help others do the same",
+        "score": 0.4249327882471409,
+        "id": "e351fec0-c861-4258-81d6-fca13a058022",
+        "created_at": "2026-11-11T06:17:25.759523+00:00",
+        "updated_at": "2026-11-11T06:17:25.759523+00:00"
+      },
+      {
+        "memory": "Caroline painted her tree-with-bright-sun painting for her LGBTQ art show after visiting an LGBTQ center, wanting to capture everyone's unity and strength",
+        "score": 0.42374355491380755,
+        "id": "2cd82c09-31c0-4a17-ad26-969a548b564a",
+        "created_at": "2026-11-11T06:15:24.747625+00:00",
+        "updated_at": "2026-11-11T06:15:24.747625+00:00"
+      },
+      {
+        "memory": "Caroline has been busy painting and recently finished a vibrant sunset beach painting on a small easel, inspired by visiting the beach the week before November 11, 2026 and watching the sun dip below the horizon with amazing, calming colors",
+        "score": 0.4211559549138076,
+        "id": "8264da50-710c-4705-b731-8b718f068da8",
+        "created_at": "2026-11-11T06:17:47.797319+00:00",
+        "updated_at": "2026-11-11T06:17:47.797319+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie whether she has any more paintings coming up, showing interest in Melanie's artwork",
+        "score": 0.4185668549138076,
+        "id": "af301b88-7cfc-43d8-9104-7bffcc56d6ab",
+        "created_at": "2026-11-11T06:18:18.402199+00:00",
+        "updated_at": "2026-11-11T06:18:18.402199+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's abstract painting with a blue background, saying the blue adds a lot to it, and asked what feelings Melanie hoped to portray",
+        "score": 0.4175121549138076,
+        "id": "52dd9a4e-8893-4429-b68c-8bc043febbcf",
+        "created_at": "2026-11-11T06:20:06.828992+00:00",
+        "updated_at": "2026-11-11T06:20:06.828992+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's painting of a vibrant purple/pink sunset, saying it's stunning and she loves the colors and chilled-out sunset vibe, and asked what inspired Melanie to paint it",
+        "score": 0.4159897549138076,
+        "id": "e2ed7403-185c-4b9c-905c-3a4f083cd8a3",
+        "created_at": "2026-11-11T06:20:03.031611+00:00",
+        "updated_at": "2026-11-11T06:20:03.031611+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie if she has any paintings to show, saying she'd love to check them out and that it's cool Melanie has creative outlets",
+        "score": 0.40998955491380756,
+        "id": "e8e5f7f9-b4cd-4696-9458-40f53a6d3a13",
+        "created_at": "2026-11-11T06:19:59.762825+00:00",
+        "updated_at": "2026-11-11T06:19:59.762825+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a painted sidewalk with a rainbow design, describing it as a symbol of togetherness to celebrate differences and bring people closer, and said she'd love to make something like it next",
+        "score": 0.4026005549138076,
+        "id": "bd9ff8c4-5e4e-49e9-9943-7ee5e216200e",
+        "created_at": "2026-11-11T06:18:04.602230+00:00",
+        "updated_at": "2026-11-11T06:18:04.602230+00:00"
+      },
+      {
+        "memory": "Caroline has never tried pottery, saying she's been busy painting instead",
+        "score": 0.4006449549138076,
+        "id": "423a5b24-fb3e-4316-a1c4-d3e88a9d29b9",
+        "created_at": "2026-11-11T06:17:38.378348+00:00",
+        "updated_at": "2026-11-11T06:17:38.378348+00:00"
+      },
+      {
+        "memory": "Caroline says representing inclusivity and diversity in her art is important to her, and she uses her art to speak up for the LGBTQ+ community and push for acceptance",
+        "score": 0.3998234215804743,
+        "id": "ff425e4b-d672-43b3-bc82-10380b548caf",
+        "created_at": "2026-11-11T06:16:17.289023+00:00",
+        "updated_at": "2026-11-11T06:16:17.289023+00:00"
+      },
+      {
+        "memory": "Caroline is having an LGBTQ art show next month (December 2026) featuring her paintings",
+        "score": 0.39946462158047424,
+        "id": "ef93716c-e877-4f82-8fd2-60725bea72ea",
+        "created_at": "2026-11-11T06:15:26.603890+00:00",
+        "updated_at": "2026-11-11T06:15:26.603890+00:00"
+      },
+      {
+        "memory": "Caroline owns a hand-painted bowl made by a friend for her 18th birthday about ten years ago (around 2016); she loves its pattern and colors and says it reminds her of art and self-expression",
+        "score": 0.39922715491380756,
+        "id": "3d93cca6-3749-41cc-b4e4-18327b1a3a61",
+        "created_at": "2026-11-11T06:12:10.813792+00:00",
+        "updated_at": "2026-11-11T06:12:10.813792+00:00"
+      },
+      {
+        "memory": "Melanie painted a sunset painting because it was calming, and she has also done an abstract painting with vibrant colors on a blue background, which she shared with Caroline",
+        "score": 0.3991380882471409,
+        "id": "499d9304-1d3f-4683-ade8-a844fef8d0fa",
+        "created_at": "2026-11-11T06:20:04.907620+00:00",
+        "updated_at": "2026-11-11T06:20:04.907620+00:00"
+      },
+      {
+        "memory": "Caroline painted her vibrant sunset beach painting after visiting the beach the week of November 2-8, 2026, inspired by watching the sun dip below the horizon and the amazing, calming colors, which she wanted to capture in her painting",
+        "score": 0.39878105491380755,
+        "id": "5ae12b48-6bc9-4862-b323-8838f7474793",
+        "created_at": "2026-11-11T06:17:40.798718+00:00",
+        "updated_at": "2026-11-11T06:17:40.798718+00:00"
+      },
+      {
+        "memory": "Caroline has always had a love for horses",
+        "score": 0.3972688482471409,
+        "id": "7d582654-a920-456d-812e-31b4eec99233",
+        "created_at": "2026-11-11T06:17:12.054870+00:00",
+        "updated_at": "2026-11-11T06:17:12.054870+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's nature-inspired painting of a sunset with a palm tree, saying the colors are bold and it highlights the beauty of nature, and asked whether Melanie and her kids worked on it together",
+        "score": 0.39571912158047423,
+        "id": "c7489452-740f-40b7-a369-a5490d089b30",
+        "created_at": "2026-11-11T06:14:12.897187+00:00",
+        "updated_at": "2026-11-11T06:14:12.897187+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a painting with the word 'happiness' painted on it, expressing that it's freeing to just be yourself and live honestly, and that people can accept who they are and be content",
+        "score": 0.39504726158047426,
+        "id": "ebcbd534-b9c6-45ba-939c-4c89ba7c9422",
+        "created_at": "2026-11-11T06:21:20.992591+00:00",
+        "updated_at": "2026-11-11T06:21:20.992591+00:00"
+      },
+      {
+        "memory": "Caroline finds it sweet and cute that Melanie's kids made a cup with a dog face, and thinks it's awesome to see how kids show their personalities through art",
+        "score": 0.3949336549138076,
+        "id": "5871fab0-15a6-4379-8713-5df671dea29a",
+        "created_at": "2026-11-11T06:14:09.179811+00:00",
+        "updated_at": "2026-11-11T06:14:09.179811+00:00"
+      },
+      {
+        "memory": "Caroline says drawing flowers is one of her favorite things to do, and she values appreciating nature and sharing it with others",
+        "score": 0.3946264549138076,
+        "id": "d1892907-5fdb-4b06-bb6f-ac00e51bcf45",
+        "created_at": "2026-11-11T06:18:15.921891+00:00",
+        "updated_at": "2026-11-11T06:18:15.921891+00:00"
+      },
+      {
+        "memory": "Caroline has not tried pottery but has been busy painting; she painted a vibrant sunset beach scene on a small easel that she finished around November 11, 2026",
+        "score": 0.39448038158047427,
+        "id": "284f0f0e-6f47-4e95-bc5b-10afd2a34d64",
+        "created_at": "2026-11-11T06:17:51.204424+00:00",
+        "updated_at": "2026-11-11T06:17:51.204424+00:00"
+      },
+      {
+        "memory": "Caroline shared a drawing of a flower bouquet being held by a person",
+        "score": 0.3943277949138076,
+        "id": "0e3471fe-95bd-4f4f-aea1-428a0e8b10b5",
+        "created_at": "2026-11-11T06:18:15.924349+00:00",
+        "updated_at": "2026-11-11T06:18:15.924349+00:00"
+      },
+      {
+        "memory": "Caroline is having an LGBTQ art show featuring her paintings in December 2026 and is excited about it",
+        "score": 0.3937238215804742,
+        "id": "0f110f46-4f64-4b84-b0ec-513f49f81cff",
+        "created_at": "2026-11-11T06:15:21.032931+00:00",
+        "updated_at": "2026-11-11T06:15:21.032931+00:00"
+      },
+      {
+        "memory": "Caroline painted her sunset beach scene after visiting the beach the week of November 2-8, 2026, inspired by watching the sun dip below the horizon with amazing colors, which she found calming and wanted to capture in her painting",
+        "score": 0.39302948824714096,
+        "id": "973f6bd4-036a-48d9-9d0b-2b6dec72cc65",
+        "created_at": "2026-11-11T06:17:51.208494+00:00",
+        "updated_at": "2026-11-11T06:17:51.208494+00:00"
+      },
+      {
+        "memory": "Caroline praised Melanie's colorful patterned pottery bowl, saying Melanie put so much effort and passion into it and that her creativity really shines; Caroline finds it inspiring to see how art can be a source of self-expression and growth",
+        "score": 0.39290415491380754,
+        "id": "f3831f17-7294-4c49-979d-6471d36d170f",
+        "created_at": "2026-11-11T06:16:40.935816+00:00",
+        "updated_at": "2026-11-11T06:16:40.935816+00:00"
+      },
+      {
+        "memory": "Caroline praised Melanie's horse painting, admiring the details and how Melanie captured the horse's grace and strength, and asked whether Melanie likes painting animals",
+        "score": 0.3897894549138076,
+        "id": "d8b38cee-97e7-4aed-b29c-764a192156dd",
+        "created_at": "2026-11-11T06:17:15.688158+00:00",
+        "updated_at": "2026-11-11T06:17:15.688158+00:00"
+      },
+      {
+        "memory": "Caroline is excited about her LGBTQ art show, describing it as a great night featuring LGBTQ artists and their talents, with the goal of spreading understanding and acceptance",
+        "score": 0.38830528824714095,
+        "id": "8d7d96c3-6ee4-4cfa-a99e-6e581285a9a8",
+        "created_at": "2026-11-11T06:18:26.275700+00:00",
+        "updated_at": "2026-11-11T06:18:26.275700+00:00"
+      },
+      {
+        "memory": "Melanie says she loves painting animals, describing it as peaceful and special, and admires horses for their grace; she asked Caroline whether she likes to paint too",
+        "score": 0.38775242158047424,
+        "id": "eba7f1ed-1480-4359-a037-03122eccbc74",
+        "created_at": "2026-11-11T06:17:19.344656+00:00",
+        "updated_at": "2026-11-11T06:17:19.344656+00:00"
+      },
+      {
+        "memory": "Caroline painted a piece of a tree with a bright sun in the background after visiting an LGBTQ center, aiming to capture everyone's unity and strength",
+        "score": 0.3863739082471409,
+        "id": "073120bc-d879-4669-8196-c7ea14a80399",
+        "created_at": "2026-11-11T06:15:26.607123+00:00",
+        "updated_at": "2026-11-11T06:15:26.607123+00:00"
+      },
+      {
+        "memory": "Caroline is having an LGBTQ art show featuring her own paintings in December 2026, which she is very excited about",
+        "score": 0.3862237549138076,
+        "id": "f64c3fc8-2378-46dd-b517-af5c1e22e85f",
+        "created_at": "2026-11-11T06:15:18.920033+00:00",
+        "updated_at": "2026-11-11T06:15:18.920033+00:00"
+      },
+      {
+        "memory": "Caroline is passionate about creating a safe, inviting place for people to grow, wanting to help others go through what she went through",
+        "score": 0.38431475491380757,
+        "id": "be19741c-b1ab-4896-93e1-35a24816daef",
+        "created_at": "2026-11-11T06:12:25.791797+00:00",
+        "updated_at": "2026-11-11T06:12:25.791797+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's painting of a sunset with a palm tree, calling it stunning and saying she's glad they bonded over their shared love of nature",
+        "score": 0.3813329549138076,
+        "id": "74f73628-fd12-49f8-9140-fb25b77d1ccc",
+        "created_at": "2026-11-11T06:14:16.341864+00:00",
+        "updated_at": "2026-11-11T06:14:16.341864+00:00"
+      },
+      {
+        "memory": "Caroline says being around people who embrace and back her up is beyond words and has inspired her",
+        "score": 0.3800986549138076,
+        "id": "835d871c-cce7-404b-92b1-6026bd7a82ec",
+        "created_at": "2026-11-11T06:14:38.869003+00:00",
+        "updated_at": "2026-11-11T06:14:38.869003+00:00"
+      },
+      {
+        "memory": "Melanie painted the lake sunrise painting she shared with Caroline in 2025, and says the painting is special to her",
+        "score": 0.3795353082471409,
+        "id": "2e4c3cc4-411b-4cff-84f1-8834e6e93182",
+        "created_at": "2026-11-11T06:10:57.275778+00:00",
+        "updated_at": "2026-11-11T06:10:57.275778+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline whether she has any cool art projects coming up",
+        "score": 0.37949702158047427,
+        "id": "5b31f3ae-3a71-4052-8a2e-6ed40d2ce7b6",
+        "created_at": "2026-11-11T06:18:20.181326+00:00",
+        "updated_at": "2026-11-11T06:18:20.181326+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie what other creative projects she does with her kids besides pottery",
+        "score": 0.3788994482471409,
+        "id": "3c11f997-2a98-4207-bc6e-756d4df5c050",
+        "created_at": "2026-11-11T06:14:09.184610+00:00",
+        "updated_at": "2026-11-11T06:14:09.184610+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was \"Charlotte's Web\", and she loved how it showed that friendship and compassion can make a difference",
+        "score": 0.3787589540504648,
+        "id": "0958ddba-a75c-4649-a534-1ca41e232d03",
+        "created_at": "2026-11-11T06:13:06.089372+00:00",
+        "updated_at": "2026-11-11T06:13:06.089372+00:00"
+      },
+      {
+        "memory": "Melanie expressed being in awe of Caroline's courage as a trans person and asked whether Caroline has made any more art lately, sharing a photo of a stained glass window with a person holding a key",
+        "score": 0.37776135491380763,
+        "id": "ddf5befa-ff95-460b-8dbd-b4413a3b1a80",
+        "created_at": "2026-11-11T06:17:56.997786+00:00",
+        "updated_at": "2026-11-11T06:17:56.997786+00:00"
+      },
+      {
+        "memory": "Caroline made a stained glass window to remind herself and others that within us all is the key to discovering our true potential and living our best life",
+        "score": 0.37620622158047423,
+        "id": "92e9e8ee-d688-4386-9a84-146d5e7a601d",
+        "created_at": "2026-11-11T06:17:58.529504+00:00",
+        "updated_at": "2026-11-11T06:17:58.529504+00:00"
+      },
+      {
+        "memory": "Caroline felt super powerful giving her talk at the school event, where she shared her own journey, the struggles she had, and how much she has developed since coming out; she found it wonderful that the audience related to her words and was inspired to be better allies",
+        "score": 0.37303626158047426,
+        "id": "18564f4d-a9dd-4582-a199-9ee06b1a02ad",
+        "created_at": "2026-11-11T06:11:31.370860+00:00",
+        "updated_at": "2026-11-11T06:11:31.370860+00:00"
+      },
+      {
+        "memory": "Caroline drew a picture of a woman in a dress that she says stands for freedom and being real, serving as a nudge to always stay true to herself and embrace her womanhood",
+        "score": 0.3729613949138076,
+        "id": "5d14a297-acf4-43ec-8dc5-5fe4c6c4a22f",
+        "created_at": "2026-11-11T06:20:17.917259+00:00",
+        "updated_at": "2026-11-11T06:20:17.917259+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's photo of her kids at the museum, saying it's a great pic and must have been awesome, and asked what the children were so excited about",
+        "score": 0.3717082215804743,
+        "id": "ce3e6e73-e1db-4af8-95c5-90bb795a8b7a",
+        "created_at": "2026-11-11T06:12:58.429903+00:00",
+        "updated_at": "2026-11-11T06:12:58.429903+00:00"
+      },
+      {
+        "memory": "Caroline is putting together an LGBTQ art show in December 2026 and will display her paintings there; she is very excited about it",
+        "score": 0.3706681282471409,
+        "id": "aa122a3e-ad08-48b9-9d84-58d9a6646625",
+        "created_at": "2026-11-11T06:18:24.615969+00:00",
+        "updated_at": "2026-11-11T06:18:24.615969+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a painting she just finished of a vibrant sunset at the beach, shown on a small easel, around November 11, 2026",
+        "score": 0.3705495149138076,
+        "id": "ea355322-c5a1-4c35-b0d7-1565fb8d01fb",
+        "created_at": "2026-11-11T06:17:38.381733+00:00",
+        "updated_at": "2026-11-11T06:17:38.381733+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a poster on a wall in a classroom in connection with her poetry reading experience",
+        "score": 0.3704266882471409,
+        "id": "2532b422-7406-48d0-b422-8bfd9466f959",
+        "created_at": "2026-11-11T06:20:09.323189+00:00",
+        "updated_at": "2026-11-11T06:20:09.323189+00:00"
+      },
+      {
+        "memory": "Caroline came across a vibrant rainbow-painted sidewalk in her neighborhood while out walking during Pride Month, took a picture of it, and felt it was welcoming and a reminder that love and acceptance are everywhere",
+        "score": 0.37025582158047426,
+        "id": "778d1fbc-5b2a-4926-ae11-aeb826d64390",
+        "created_at": "2026-11-11T06:18:07.717962+00:00",
+        "updated_at": "2026-11-11T06:18:07.717962+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's colorful patterned pottery bowl as awesome and asked Melanie what gave her the idea for all the colors and patterns",
+        "score": 0.3674448682471409,
+        "id": "3d4ca36f-70de-4822-9cfc-1c5fbb8eeb81",
+        "created_at": "2026-11-11T06:16:37.904043+00:00",
+        "updated_at": "2026-11-11T06:16:37.904043+00:00"
+      },
+      {
+        "memory": "Caroline has not yet tried pottery but is open to trying new art forms and might try pottery sometime",
+        "score": 0.36691022158047426,
+        "id": "6ace3fd0-826b-4e3d-9424-2297d2c18cf4",
+        "created_at": "2026-11-11T06:19:34.770267+00:00",
+        "updated_at": "2026-11-11T06:19:34.770267+00:00"
+      },
+      {
+        "memory": "Caroline says her art is about expressing her trans experience — it's her way of showing her story and helping people understand the trans community",
+        "score": 0.36679382158047424,
+        "id": "395bea46-ac10-49a3-8c6d-e986f3f2e551",
+        "created_at": "2026-11-11T06:16:20.664766+00:00",
+        "updated_at": "2026-11-11T06:16:20.664766+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline what inspires her with her volunteering",
+        "score": 0.3664690882471409,
+        "id": "66b9fcfa-0e46-48d9-bad6-23be653885ee",
+        "created_at": "2026-11-11T06:19:14.223984+00:00",
+        "updated_at": "2026-11-11T06:19:14.223984+00:00"
+      },
+      {
+        "memory": "Caroline felt connected and touched that Melanie could feel the peace and serenity in her sunset painting, saying Melanie's kind words mean a lot to her",
+        "score": 0.36581440158047424,
+        "id": "5498ffb3-f907-436a-9fc5-b5bb37570130",
+        "created_at": "2026-11-11T06:17:47.803308+00:00",
+        "updated_at": "2026-11-11T06:17:47.803308+00:00"
+      },
+      {
+        "memory": "Caroline feels connected to Melanie when Melanie can feel the peace and serenity in her paintings, and appreciates Melanie's kind words about her artwork",
+        "score": 0.3644655549138076,
+        "id": "62d47318-e5b0-4ecc-9a79-d85d3ff24955",
+        "created_at": "2026-11-11T06:17:43.713089+00:00",
+        "updated_at": "2026-11-11T06:17:43.713089+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's pottery plate with floral patterns as awesome and asked whether Melanie made it",
+        "score": 0.36439966824714093,
+        "id": "c72c5659-2558-48a8-994d-75fce2f06ee4",
+        "created_at": "2026-11-11T06:17:35.436079+00:00",
+        "updated_at": "2026-11-11T06:17:35.436079+00:00"
+      },
+      {
+        "memory": "Caroline has not tried pottery yet but is open to trying new art forms and might try pottery sometime",
+        "score": 0.3638023882471409,
+        "id": "c4a7739a-d638-4745-bf85-210bf9d7f0e9",
+        "created_at": "2026-11-11T06:19:24.942620+00:00",
+        "updated_at": "2026-11-11T06:19:24.942620+00:00"
+      },
+      {
+        "memory": "Caroline feels that pets bring so much joy",
+        "score": 0.3601003549138076,
+        "id": "d99b8fae-4ac7-4b80-8680-b887b04bcbad",
+        "created_at": "2026-11-11T06:13:34.953891+00:00",
+        "updated_at": "2026-11-11T06:13:34.953891+00:00"
+      },
+      {
+        "memory": "Melanie told Caroline that Caroline makes life's struggles more bearable, expressing mutual appreciation for their friendship",
+        "score": 0.3591026015804743,
+        "id": "10b6e55f-4537-47b8-8763-7fa6859fdc73",
+        "created_at": "2026-11-11T06:16:47.263318+00:00",
+        "updated_at": "2026-11-11T06:16:47.263318+00:00"
+      },
+      {
+        "memory": "Caroline believes pets bring so much joy",
+        "score": 0.35850088824714094,
+        "id": "93cd357e-79d7-4961-8ca2-5e215af2d53b",
+        "created_at": "2026-11-11T06:13:46.661396+00:00",
+        "updated_at": "2026-11-11T06:13:46.661396+00:00"
+      },
+      {
+        "memory": "Caroline felt connected and appreciative when Melanie said she could feel the peace and serenity in her sunset painting, saying Melanie's kind words meant a lot to her",
+        "score": 0.35620565491380757,
+        "id": "7e797f8d-165c-4e5c-ad1e-4c40846e2b74",
+        "created_at": "2026-11-11T06:17:51.211916+00:00",
+        "updated_at": "2026-11-11T06:17:51.211916+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a dog walking past a wall with a painting of a woman, in the context of discussing the LGBTQ support group",
+        "score": 0.35475392824714086,
+        "id": "e5d8bd3f-0362-4e97-8401-a11f9e2c2e08",
+        "created_at": "2026-11-11T06:10:46.037487+00:00",
+        "updated_at": "2026-11-11T06:10:46.037487+00:00"
+      },
+      {
+        "memory": "Caroline took away lessons of self-acceptance and how to find support from 'Becoming Nicole', and it showed her that tough times don't last and that hope and love exist",
+        "score": 0.3544493882471409,
+        "id": "42ca9ac2-5cbd-4440-acf0-1f2186c45520",
+        "created_at": "2026-11-11T06:13:37.684697+00:00",
+        "updated_at": "2026-11-11T06:13:37.684697+00:00"
+      },
+      {
+        "memory": "Caroline says her transition and finding acceptance weren't easy, but the help she received from friends, family, and people she looked up to was invaluable — they boosted her through tough times and helped her discover who she really is",
+        "score": 0.35306622158047424,
+        "id": "4fefb3df-9585-46ec-b639-ce64578590ce",
+        "created_at": "2026-11-11T06:21:12.196522+00:00",
+        "updated_at": "2026-11-11T06:21:12.196522+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference",
+        "score": 0.3527028073837981,
+        "id": "e070ebfe-99ae-4912-bfaf-3ba5c7cf2b48",
+        "created_at": "2026-11-11T06:13:11.227873+00:00",
+        "updated_at": "2026-11-11T06:13:11.227873+00:00"
+      },
+      {
+        "memory": "Caroline says she is lucky to have a great support system whose love and encouragement has helped her accept and grow into her true self, and that they have been instrumental in her transition",
+        "score": 0.3520001082471409,
+        "id": "4bcfa2d1-0559-4321-bd26-b559387b0608",
+        "created_at": "2026-11-11T06:13:15.517571+00:00",
+        "updated_at": "2026-11-11T06:13:15.517571+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue, which makes her feel relaxed",
+        "score": 0.35054962158047426,
+        "id": "e6b7f969-3402-4461-8a6a-df61f5690a10",
+        "created_at": "2026-11-11T06:14:20.634494+00:00",
+        "updated_at": "2026-11-11T06:14:20.634494+00:00"
+      },
+      {
+        "memory": "Caroline says she appreciates the support of those close to her, stating their encouragement made her who she is",
+        "score": 0.34967564824714087,
+        "id": "8c2b1f71-3b78-49f4-bb7a-32fe5255bb7c",
+        "created_at": "2026-11-11T06:21:18.412158+00:00",
+        "updated_at": "2026-11-11T06:21:18.412158+00:00"
+      },
+      {
+        "memory": "Caroline feels sharing personal experiences isn't always easy but believes it's important to promote understanding and acceptance, and wants to pass on the love and support she's been blessed with to others, building a strong supportive community of hope",
+        "score": 0.3495080882471409,
+        "id": "502149d0-0dcd-47b8-96e7-88cf36e86ec2",
+        "created_at": "2026-11-11T06:11:34.637016+00:00",
+        "updated_at": "2026-11-11T06:11:34.637016+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a crowd walking down a street with a rainbow flag in the context of praising Melanie's volunteering and calling her an inspiration",
+        "score": 0.3490633549138076,
+        "id": "e89511f8-1bc6-4719-89d2-8cf63748e093",
+        "created_at": "2026-11-11T06:17:47.811966+00:00",
+        "updated_at": "2026-11-11T06:17:47.811966+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a stained glass window depicting a person on a horse",
+        "score": 0.3476924882471409,
+        "id": "24c1a934-79d6-4d31-b301-13724ce1150d",
+        "created_at": "2026-11-11T06:17:55.634311+00:00",
+        "updated_at": "2026-11-11T06:17:55.634311+00:00"
+      },
+      {
+        "memory": "Caroline's transition changed her relationships: some close friends kept supporting her while a few couldn't handle it, and though it wasn't easy she is much happier surrounding herself with people who accept and love her, making her relationships feel more genuine",
+        "score": 0.3460648015804742,
+        "id": "1d927337-3fbe-46de-8f2b-56b4c4bdf537",
+        "created_at": "2026-11-11T06:19:34.787356+00:00",
+        "updated_at": "2026-11-11T06:19:34.787356+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's handmade pottery bowl with a black and white flower design, saying it looks gorgeous and fancy, and praised Melanie's creativity and hard work",
+        "score": 0.3457016482471409,
+        "id": "85242cba-4ed0-4082-b116-5807a7839d55",
+        "created_at": "2026-11-11T06:12:44.138049+00:00",
+        "updated_at": "2026-11-11T06:12:44.138049+00:00"
+      },
+      {
+        "memory": "Caroline says the rainbow flag mural is important to her because it reflects the courage and strength of the trans community",
+        "score": 0.34536364824714094,
+        "id": "3a43e046-79fa-4814-9363-10816e7de1a2",
+        "created_at": "2026-11-11T06:17:55.627895+00:00",
+        "updated_at": "2026-11-11T06:17:55.627895+00:00"
+      },
+      {
+        "memory": "Melanie believes it's important to cultivate a loving and accepting environment for kids, and asked Caroline how she stays inclusive in her work as an artist",
+        "score": 0.3451682215804743,
+        "id": "ac231ee7-8f36-4e36-b697-451cb94eed49",
+        "created_at": "2026-11-11T06:16:15.509120+00:00",
+        "updated_at": "2026-11-11T06:16:15.509120+00:00"
+      },
+      {
+        "memory": "Caroline says the best part of her journey was realizing she can be herself without fear and having the courage to transition, which she finds freeing as she expresses herself authentically with people backing her up",
+        "score": 0.34495404824714093,
+        "id": "24300bee-e1a1-41de-9014-67c73137181d",
+        "created_at": "2026-11-11T06:14:40.602080+00:00",
+        "updated_at": "2026-11-11T06:14:40.602080+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a painting of a sunset over a lake with Caroline on November 11, 2026",
+        "score": 0.3432379549138076,
+        "id": "188076e8-00f4-49b9-a4f1-a3510b6f6d70",
+        "created_at": "2026-11-11T06:10:55.028572+00:00",
+        "updated_at": "2026-11-11T06:10:55.028572+00:00"
+      },
+      {
+        "memory": "Caroline shared a drawing of a woman in a dress, inspired by the transgender poetry reading she attended",
+        "score": 0.34235488824714094,
+        "id": "bcc2f53f-8473-4b32-b4fb-dbed1bd22185",
+        "created_at": "2026-11-11T06:20:15.362983+00:00",
+        "updated_at": "2026-11-11T06:20:15.362983+00:00"
+      },
+      {
+        "memory": "Caroline says her friends, family, and mentors are her rocks — they motivate her and give her the strength to push on",
+        "score": 0.3409060882471409,
+        "id": "d6931d06-d148-4d97-94e9-fe759fc7363c",
+        "created_at": "2026-11-11T06:11:43.473196+00:00",
+        "updated_at": "2026-11-11T06:11:43.473196+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline to show her a picture of Caroline's guinea pig Oscar",
+        "score": 0.3402006882471409,
+        "id": "4be59677-ba36-4f6d-b3bd-33d270b4f61d",
+        "created_at": "2026-11-11T06:17:07.383504+00:00",
+        "updated_at": "2026-11-11T06:17:07.383504+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a purple pottery bowl with floral patterns, asking Caroline what she thinks of it",
+        "score": 0.3398923549138076,
+        "id": "bb0a1839-78e1-471e-a9b3-b200e2804a52",
+        "created_at": "2026-11-11T06:17:34.134446+00:00",
+        "updated_at": "2026-11-11T06:17:34.134446+00:00"
+      },
+      {
+        "memory": "Melanie complimented Caroline's stained glass work, saying the colors are incredible and the story it tells is inspiring, and shared a photo of a door with a stained glass window and a coat rack",
+        "score": 0.3397183749138076,
+        "id": "93ece125-08bb-4fd9-a806-347cf3c389a6",
+        "created_at": "2026-11-11T06:18:03.345304+00:00",
+        "updated_at": "2026-11-11T06:18:03.345304+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and says books guide, motivate, and help her discover who she is, describing them as a huge part of her journey",
+        "score": 0.33843119491380763,
+        "id": "282b767a-420e-4b43-88b1-aff07a83f8b8",
+        "created_at": "2026-11-11T06:13:37.705547+00:00",
+        "updated_at": "2026-11-11T06:13:37.705547+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a guitar on display in a store",
+        "score": 0.3376726615804742,
+        "id": "ff5d8090-5d5f-4bf7-bbeb-e373bea41621",
+        "created_at": "2026-11-11T06:18:53.992567+00:00",
+        "updated_at": "2026-11-11T06:18:53.992567+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's pottery bowl with the black and white flower design, calling it gorgeous and fancy, and asked whether Melanie made it",
+        "score": 0.3369709215804742,
+        "id": "e9270264-9bfc-4ca1-b902-a95e4707c013",
+        "created_at": "2026-11-11T06:12:41.007963+00:00",
+        "updated_at": "2026-11-11T06:12:41.007963+00:00"
+      },
+      {
+        "memory": "Caroline is on an adoption journey and is excited about the future",
+        "score": 0.33692299491380756,
+        "id": "18b7eb2b-d1c4-4e76-b5cb-7232bb0620b5",
+        "created_at": "2026-11-11T06:17:34.145588+00:00",
+        "updated_at": "2026-11-11T06:17:34.145588+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way of giving back and showing love and acceptance, and hopes to build her own family and provide a roof for kids who haven't had that before",
+        "score": 0.33539243333333335,
+        "id": "62af04a8-cf13-460b-81f8-9fca9f2d1aed",
+        "created_at": "2026-11-11T06:21:02.410304+00:00",
+        "updated_at": "2026-11-11T06:21:02.410304+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's stack of bowls, saying they are amazing and each has such cool designs, and expressed that she loves that Melanie chose pottery for her art",
+        "score": 0.33515274158047426,
+        "id": "446ccbc6-c392-4d6b-a6ca-70aae869f4ce",
+        "created_at": "2026-11-11T06:19:22.321230+00:00",
+        "updated_at": "2026-11-11T06:19:22.321230+00:00"
+      },
+      {
+        "memory": "Caroline's dream is to create a safe and loving home for kids, believing love and acceptance should be everyone's right and wanting them to experience it",
+        "score": 0.3348824682471409,
+        "id": "b954f263-cead-48b8-a49e-6ece337ea910",
+        "created_at": "2026-11-11T06:21:05.622642+00:00",
+        "updated_at": "2026-11-11T06:21:05.622642+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a clock with a green and yellow design on it, expressing gratitude for Melanie's support and saying her journey has been amazing and a real gift she's glad to share while helping others with theirs",
+        "score": 0.3345008215804743,
+        "id": "c47ac18e-af9b-4ff1-861f-afca79f891bd",
+        "created_at": "2026-11-11T06:21:15.213091+00:00",
+        "updated_at": "2026-11-11T06:21:15.213091+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's wedding photo, saying she and her partner both looked amazing",
+        "score": 0.33434842158047423,
+        "id": "2c4f2639-dfb8-408d-9980-7f1ef1865948",
+        "created_at": "2026-11-11T06:14:28.698603+00:00",
+        "updated_at": "2026-11-11T06:14:28.698603+00:00"
+      },
+      {
+        "memory": "Caroline's goal is to give kids a loving home through adoption, and she feels grateful for the support she has received from friends and mentors as she works to turn her dream into reality",
+        "score": 0.33421784158047424,
+        "id": "445aabda-a9c6-4411-abb0-1f8764e5d4a6",
+        "created_at": "2026-11-11T06:11:17.701545+00:00",
+        "updated_at": "2026-11-11T06:11:17.701545+00:00"
+      },
+      {
+        "memory": "Caroline described the advocacy event she attended as a cool experience with so much love and support, calling it amazing",
+        "score": 0.33371964158047424,
+        "id": "254fba09-cefb-49fb-8429-5b321f874a27",
+        "created_at": "2026-11-11T06:16:06.985695+00:00",
+        "updated_at": "2026-11-11T06:16:06.985695+00:00"
+      },
+      {
+        "memory": "Melanie expressed enthusiasm for Caroline's LGBTQ art show, saying the LGBTQ community needs more platforms like it and that she can't wait to see it",
+        "score": 0.33355152158047424,
+        "id": "e0dbec99-6343-4a19-92ad-a5291ebd1c60",
+        "created_at": "2026-11-11T06:18:24.637506+00:00",
+        "updated_at": "2026-11-11T06:18:24.637506+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's photo of yellow leaves, saying it looks amazing and cozy, and that seeing how excited Melanie's kids get for the little things is awesome and contagious",
+        "score": 0.33345154158047424,
+        "id": "3aeb93e6-938d-4f0b-850e-8de62c9a9733",
+        "created_at": "2026-11-11T06:19:12.341130+00:00",
+        "updated_at": "2026-11-11T06:19:12.341130+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a person holding a necklace with a cross and a heart pendant, in the context of telling Melanie that a lot has been going on in her life",
+        "score": 0.33292392158047424,
+        "id": "c7ced4e1-3d38-4bc0-8efd-38845ccbc433",
+        "created_at": "2026-11-11T06:12:05.000965+00:00",
+        "updated_at": "2026-11-11T06:12:05.000965+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad when she was a kid, riding through the fields and feeling the wind, which she describes as a special experience",
+        "score": 0.3311195282471409,
+        "id": "0a74ce21-36d7-4c3c-81be-43edb8ff4530",
+        "created_at": "2026-11-11T06:17:12.051264+00:00",
+        "updated_at": "2026-11-11T06:17:12.051264+00:00"
+      },
+      {
+        "memory": "Melanie is doing okay after her injury and has been reading a book Caroline recommended a while ago and painting to keep busy",
+        "score": 0.3305951682471409,
+        "id": "c4afbde4-33cf-4011-9a73-4b86d8683286",
+        "created_at": "2026-11-11T06:19:58.164703+00:00",
+        "updated_at": "2026-11-11T06:19:58.164703+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride event around early November 2026 and found it encouraging to be surrounded by so much love and acceptance; the best part was seeing her mentee's face light up when they saw the support",
+        "score": 0.33003331491380755,
+        "id": "c6ec2478-7d7d-4ec7-8e2c-de8713650f0e",
+        "created_at": "2026-11-11T06:15:26.601555+00:00",
+        "updated_at": "2026-11-11T06:15:26.601555+00:00"
+      },
+      {
+        "memory": "Caroline is learning to play the piano as a new creative outlet",
+        "score": 0.32967982158047426,
+        "id": "f657da75-7d10-4965-a28f-e45c286fde50",
+        "created_at": "2026-11-11T06:12:37.300512+00:00",
+        "updated_at": "2026-11-11T06:12:37.300512+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on Friday, November 6, 2026, which she described as electric with energy and support, with amazing posters full of pride and strength; the event inspired her to make some art",
+        "score": 0.3292862082471409,
+        "id": "99807395-4dd6-4c3f-bd43-dffd7aa0497b",
+        "created_at": "2026-11-11T06:20:15.360472+00:00",
+        "updated_at": "2026-11-11T06:20:15.360472+00:00"
+      },
+      {
+        "memory": "Caroline believes finding happy moments and clinging to them is key to keeping going even when life is hard, and feels lucky to have people like Melanie to remind her of that",
+        "score": 0.32893166158047427,
+        "id": "d6304e04-60aa-4a33-aa36-c17f04f9e25e",
+        "created_at": "2026-11-11T06:16:46.005473+00:00",
+        "updated_at": "2026-11-11T06:16:46.005473+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad when she was a kid, riding through the fields and feeling the wind, and describes it as a special experience; she has always had a love for horses",
+        "score": 0.3281352482471409,
+        "id": "999ea0b7-8db8-47a1-bcef-9a1c33e13511",
+        "created_at": "2026-11-11T06:17:14.445940+00:00",
+        "updated_at": "2026-11-11T06:17:14.445940+00:00"
+      },
+      {
+        "memory": "Caroline found volunteering at the LGBTQ+ youth center especially meaningful because it reminded her of her own past struggles and the loneliness she felt, and she was glad to share her story and offer support, feeling she could make a difference",
+        "score": 0.3277870882471409,
+        "id": "a2ef2940-14f7-4d82-9f83-8fa7f25bcc8e",
+        "created_at": "2026-11-11T06:18:37.667960+00:00",
+        "updated_at": "2026-11-11T06:18:37.667960+00:00"
+      },
+      {
+        "memory": "Caroline explained that her stained glass window was made for a local church and depicts time changing our lives; she created it to represent her own journey as a transgender woman and to show that we should accept growth and change",
+        "score": 0.3268855749138076,
+        "id": "3ae0cc9e-6938-4ce1-9aa0-0e14abd5d9c2",
+        "created_at": "2026-11-11T06:18:03.339199+00:00",
+        "updated_at": "2026-11-11T06:18:03.339199+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a group of friends and family posing for a picture in a yard, taken when they met up around early November 2026",
+        "score": 0.3268111682471409,
+        "id": "214e4fc5-02e5-4d48-aa3c-8c0cffced4b5",
+        "created_at": "2026-11-11T06:11:43.478946+00:00",
+        "updated_at": "2026-11-11T06:11:43.478946+00:00"
+      },
+      {
+        "memory": "Melanie admired Caroline's necklace, remarking that it's awesome how items can mean so much to us, and asked Caroline whether she has any other treasured objects like that necklace",
+        "score": 0.3266352349138076,
+        "id": "8526e77a-847f-40a9-ab0f-f0098e4faa49",
+        "created_at": "2026-11-11T06:12:09.524495+00:00",
+        "updated_at": "2026-11-11T06:12:09.524495+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a crowd walking down a street with a rainbow flag at a volunteering pride event and praised Melanie as an inspiration for volunteering and making a difference",
+        "score": 0.3263215949138076,
+        "id": "0adc0750-8945-48d9-9200-382d82e90993",
+        "created_at": "2026-11-11T06:17:51.218391+00:00",
+        "updated_at": "2026-11-11T06:17:51.218391+00:00"
+      },
+      {
+        "memory": "Melanie reassured Caroline that the sign she photographed was just a precaution and that she had a great time at the café, thanking Caroline for her concern and calling her thoughtful",
+        "score": 0.32548396824714093,
+        "id": "e0f3db8f-fc88-41a5-ae18-4927ca879289",
+        "created_at": "2026-11-11T06:19:37.783219+00:00",
+        "updated_at": "2026-11-11T06:19:37.783219+00:00"
+      },
+      {
+        "memory": "Caroline loves the blue vase in Melanie's sunflower and rose bouquet photo and asked Melanie what flowers mean to her",
+        "score": 0.32514126158047424,
+        "id": "32854690-29ef-48f2-94a7-2f2dc6cf30a5",
+        "created_at": "2026-11-11T06:14:20.640322+00:00",
+        "updated_at": "2026-11-11T06:14:20.640322+00:00"
+      },
+      {
+        "memory": "Melanie told Caroline she appreciates their friendship and that Caroline has always been there for her",
+        "score": 0.3249647149138076,
+        "id": "8fe85103-7422-4386-9c58-a51746be0ca5",
+        "created_at": "2026-11-11T06:16:50.082221+00:00",
+        "updated_at": "2026-11-11T06:16:50.082221+00:00"
+      },
+      {
+        "memory": "Caroline commented on Melanie's family picnic photo, saying it looks like they had a great day and that they all look so happy, and asked how it was",
+        "score": 0.32448089333333335,
+        "id": "b149e623-f04d-4b20-a285-f0b6a4ae9a17",
+        "created_at": "2026-11-11T06:11:58.109393+00:00",
+        "updated_at": "2026-11-11T06:11:58.109393+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to build her own family and provide a safe, loving home for kids who haven't had one, seeing it as a way of giving back and showing love and acceptance",
+        "score": 0.32383010158047426,
+        "id": "2b7692cb-d8bd-4d20-a370-6271fdd22458",
+        "created_at": "2026-11-11T06:21:10.490167+00:00",
+        "updated_at": "2026-11-11T06:21:10.490167+00:00"
+      },
+      {
+        "memory": "Caroline describes her support network as amazing, saying they have been there for her every step of the way giving her love, guidance, and acceptance, and that she couldn't have done it without them",
+        "score": 0.3238230082471409,
+        "id": "46bc2427-0bc8-4563-a5a4-60769df06170",
+        "created_at": "2026-11-11T06:13:12.576917+00:00",
+        "updated_at": "2026-11-11T06:13:12.576917+00:00"
+      },
+      {
+        "memory": "Caroline feels that playing and singing music lets her express herself and connect with others, describing it as cathartic and uplifting",
+        "score": 0.3237324682471409,
+        "id": "abf6da04-585b-44fb-a3ee-3401a6cbb1e9",
+        "created_at": "2026-11-11T06:18:51.672553+00:00",
+        "updated_at": "2026-11-11T06:18:51.672553+00:00"
+      },
+      {
+        "memory": "Caroline says her transition changed her relationships: some close friends kept supporting her, but a few weren't able to handle it. Though it wasn't easy, she is much happier being around those who accept and love her, and her relationships now feel more genuine.",
+        "score": 0.32364010158047424,
+        "id": "29cfc478-3481-4717-a3ba-b354f2134834",
+        "created_at": "2026-11-11T06:19:30.997435+00:00",
+        "updated_at": "2026-11-11T06:19:30.997435+00:00"
+      },
+      {
+        "memory": "Caroline is helping put together a talent show for the kids at the LGBTQ+ youth center in December 2026, and is looking forward to seeing how much fun everyone has and how proud they'll feel of their talents",
+        "score": 0.3234843749138076,
+        "id": "dbd6edb7-81c1-4d7b-9599-0c1670b16751",
+        "created_at": "2026-11-11T06:18:43.139302+00:00",
+        "updated_at": "2026-11-11T06:18:43.139302+00:00"
+      },
+      {
+        "memory": "Caroline expressed sympathy for Melanie's injury and pottery break, saying pottery is a great way to relax and that taking a break must have been tough, and offered to help",
+        "score": 0.3232966415804743,
+        "id": "2a55fe78-efc2-400c-9f96-aee49d128ed5",
+        "created_at": "2026-11-11T06:19:55.676091+00:00",
+        "updated_at": "2026-11-11T06:19:55.676091+00:00"
+      },
+      {
+        "memory": "Caroline felt so proud and grateful at the LGBTQ+ pride parade, saying the vibes were amazing and it was comforting to know she's not alone and has a great community around her",
+        "score": 0.32319878824714093,
+        "id": "d1fcb349-06c0-4bcd-89aa-0339311cc91e",
+        "created_at": "2026-11-11T06:14:33.936585+00:00",
+        "updated_at": "2026-11-11T06:14:33.936585+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen who is like her; they have been working on building up the teen's confidence and finding positive strategies, and Caroline says it has really been paying off",
+        "score": 0.3209532415804743,
+        "id": "238b4277-a15c-4d69-980c-b14467654a2e",
+        "created_at": "2026-11-11T06:15:11.441993+00:00",
+        "updated_at": "2026-11-11T06:15:11.441993+00:00"
+      },
+      {
+        "memory": "Melanie complimented Caroline's necklace and asked whether it has any special meaning",
+        "score": 0.32071287491380757,
+        "id": "68bde1d1-9862-456b-b749-79062ff1c2f7",
+        "created_at": "2026-11-11T06:12:06.396241+00:00",
+        "updated_at": "2026-11-11T06:12:06.396241+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie how her kids liked the pottery workshop, saying it sounds like Melanie and the kids had a blast",
+        "score": 0.3202881349138076,
+        "id": "f9e5853b-071b-48fa-9cb2-8ebbf2d7d00c",
+        "created_at": "2026-11-11T06:14:04.446894+00:00",
+        "updated_at": "2026-11-11T06:14:04.446894+00:00"
+      },
+      {
+        "memory": "Melanie told Caroline she is so happy for her, saying Caroline found her true self and is now helping others, and called her inspiring",
+        "score": 0.32000718158047425,
+        "id": "efa32e29-7e02-4179-9429-e0c96c9924e1",
+        "created_at": "2026-11-11T06:21:13.546231+00:00",
+        "updated_at": "2026-11-11T06:21:13.546231+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have accepting people around her for support, and values sharing her experiences with Melanie",
+        "score": 0.31991382158047427,
+        "id": "cbd36e04-b1ed-4def-84ed-a22d0606f1ab",
+        "created_at": "2026-11-11T06:16:33.853655+00:00",
+        "updated_at": "2026-11-11T06:16:33.853655+00:00"
+      },
+      {
+        "memory": "Caroline feels lucky to have her friends and family helping with her transition and says they make all the difference",
+        "score": 0.31966973491380757,
+        "id": "4021c615-1054-4ceb-a5ab-2b131228ef94",
+        "created_at": "2026-11-11T06:13:11.219468+00:00",
+        "updated_at": "2026-11-11T06:13:11.219468+00:00"
+      },
+      {
+        "memory": "Caroline loves reading deeply — books guide, motivate, and help her discover who she is, and she considers them a huge part of her journey, reminding her to keep going and never give up",
+        "score": 0.3194531749138076,
+        "id": "fa0f078e-d96f-4247-850d-39ed5931e60b",
+        "created_at": "2026-11-11T06:13:29.183861+00:00",
+        "updated_at": "2026-11-11T06:13:29.183861+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health in the past and found the support she received really helpful, which inspired her to pursue counseling and mental health career options so she can help others on their own journeys",
+        "score": 0.3187264349138076,
+        "id": "7f3cdca3-8e2b-4eab-b73d-eef3b2ea160f",
+        "created_at": "2026-11-11T06:13:37.698204+00:00",
+        "updated_at": "2026-11-11T06:13:37.698204+00:00"
+      },
+      {
+        "memory": "Caroline went hiking around early November 2026 and got into a bad situation with some people there; it really bothered her, so she tried to apologize to them and shared a photo of herself sitting on a site along with an apology letter",
+        "score": 0.3182593549138076,
+        "id": "fd50a7b9-d2f4-466e-8315-448641b089c1",
+        "created_at": "2026-11-11T06:17:34.127163+00:00",
+        "updated_at": "2026-11-11T06:17:34.127163+00:00"
+      },
+      {
+        "memory": "Caroline says the eagle symbolizes freedom and pride, representing her own resilience and that of others",
+        "score": 0.3175663549138076,
+        "id": "e95aabec-aea8-48b6-94ef-bd72d561cce6",
+        "created_at": "2026-11-11T06:17:55.631271+00:00",
+        "updated_at": "2026-11-11T06:17:55.631271+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue her education and explore career options, which she finds pretty exciting",
+        "score": 0.31687386666666667,
+        "id": "0e024bbd-51f5-4de9-b737-f2f889d885c1",
+        "created_at": "2026-11-11T06:10:51.321536+00:00",
+        "updated_at": "2026-11-11T06:10:51.321536+00:00"
+      },
+      {
+        "memory": "Caroline's necklace is a gift from her grandma in her home country, Sweden; her grandma gave it to her when she was young, and it stands for love, faith and strength, serving as a reminder of her roots and the love and support she gets from her family",
+        "score": 0.3166374482471409,
+        "id": "fc6bf680-8bc7-4838-a51a-a9e4e92c2ac7",
+        "created_at": "2026-11-11T06:12:07.999352+00:00",
+        "updated_at": "2026-11-11T06:12:07.999352+00:00"
+      },
+      {
+        "memory": "Melanie thanked Caroline and expressed appreciation for her friendship, saying it's great to have Caroline as a supporter",
+        "score": 0.31660820158047426,
+        "id": "e17e2b0e-afa8-4f9e-8e95-c9ca16e034e8",
+        "created_at": "2026-11-11T06:14:59.302870+00:00",
+        "updated_at": "2026-11-11T06:14:59.302870+00:00"
+      },
+      {
+        "memory": "Caroline is grateful for the chance to share her story and give others hope, and is committed to continuing to use her voice to make change and lift others up, viewing Melanie as part of that effort",
+        "score": 0.31659066666666663,
+        "id": "826164f8-dd10-4f48-b1ec-3683a60f96e3",
+        "created_at": "2026-11-11T06:11:37.322622+00:00",
+        "updated_at": "2026-11-11T06:11:37.322622+00:00"
+      },
+      {
+        "memory": "Caroline believes kids are amazingly resilient in tough situations and have an amazing ability to bounce back",
+        "score": 0.31514562158047427,
+        "id": "289d65d6-6a33-45cd-9946-5e8ba40e2dde",
+        "created_at": "2026-11-11T06:20:33.934784+00:00",
+        "updated_at": "2026-11-11T06:20:33.934784+00:00"
+      },
+      {
+        "memory": "Caroline says finding a community where she is accepted, loved, and supported has meant a lot to her and made a huge difference, having people who understand what she's going through",
+        "score": 0.3142029349138076,
+        "id": "3ed7c86c-f73d-40c7-9db7-b496e035d380",
+        "created_at": "2026-11-11T06:17:52.842162+00:00",
+        "updated_at": "2026-11-11T06:17:52.842162+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline whether she has ever tried pottery",
+        "score": 0.31401496158047426,
+        "id": "b7f3c4d2-5853-44c0-9c96-c907a2fb5cde",
+        "created_at": "2026-11-11T06:17:36.730112+00:00",
+        "updated_at": "2026-11-11T06:17:36.730112+00:00"
+      },
+      {
+        "memory": "Caroline believes our loved ones give us strength to tackle any challenge, finding it amazing",
+        "score": 0.31217788824714093,
+        "id": "e1eb09a2-e499-4f03-b600-7fe5178045d2",
+        "created_at": "2026-11-11T06:20:36.357926+00:00",
+        "updated_at": "2026-11-11T06:20:36.357926+00:00"
+      },
+      {
+        "memory": "Caroline says her own mental health journey and the support she received made a huge difference in her life, and seeing how counseling and support groups improved her life sparked her passion for mental health and self-understanding",
+        "score": 0.30986188824714095,
+        "id": "0235cc7b-8844-429e-aea8-a97559b5f9f6",
+        "created_at": "2026-11-11T06:12:25.787687+00:00",
+        "updated_at": "2026-11-11T06:12:25.787687+00:00"
+      },
+      {
+        "memory": "Caroline shared an image of a bookshelf filled with many books in a room, in the context of discussing her counseling and mental health career interests",
+        "score": 0.3089766882471409,
+        "id": "b61fc214-474f-4d9e-b99d-b6d217ecf0f6",
+        "created_at": "2026-11-11T06:12:30.053067+00:00",
+        "updated_at": "2026-11-11T06:12:30.053067+00:00"
+      },
+      {
+        "memory": "Caroline made a large stained glass window for a local church depicting time changing our lives; she created it to show her own journey as a transgender woman and to convey that we should accept growth and change",
+        "score": 0.3084758082471409,
+        "id": "a07c87c2-916f-4831-92f0-9ff94d47f31e",
+        "created_at": "2026-11-11T06:18:01.578478+00:00",
+        "updated_at": "2026-11-11T06:18:01.578478+00:00"
+      },
+      {
+        "memory": "Caroline told Melanie it's sweet to see her love for her family and that her family really is her rock",
+        "score": 0.3082372682471409,
+        "id": "27cea36e-3a54-40c3-94c3-68eb351e318f",
+        "created_at": "2026-11-11T06:20:39.367684+00:00",
+        "updated_at": "2026-11-11T06:20:39.367684+00:00"
+      },
+      {
+        "memory": "Caroline says 'Becoming Nicole' taught her self-acceptance and how to find support, and showed her that tough times don't last and that hope and love exist",
+        "score": 0.30804663491380757,
+        "id": "bb7e0404-f6be-45ba-a670-20f216046613",
+        "created_at": "2026-11-11T06:13:46.658978+00:00",
+        "updated_at": "2026-11-11T06:13:46.658978+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie what her favorite childhood book was",
+        "score": 0.30782230158047424,
+        "id": "5227fb59-e0b3-403b-8ce4-ff90fdfae949",
+        "created_at": "2026-11-11T06:13:04.477195+00:00",
+        "updated_at": "2026-11-11T06:13:04.477195+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie about the band in the photo from a show Melanie attended, showing interest in Melanie's live music experiences",
+        "score": 0.3077530415804743,
+        "id": "d35cc757-6e87-4583-9d2f-e405c979ce8b",
+        "created_at": "2026-11-11T06:18:48.849535+00:00",
+        "updated_at": "2026-11-11T06:18:48.849535+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie whether her family has any other summer traditions they do together, encouraging her to create those memories",
+        "score": 0.3069629549138076,
+        "id": "b69a92bd-490b-4f10-9a95-1df6dfb0ad86",
+        "created_at": "2026-11-11T06:15:43.034630+00:00",
+        "updated_at": "2026-11-11T06:15:43.034630+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie what concert she attended for her daughter's birthday celebration, and shared a photo of a concert poster featuring a picture of a man",
+        "score": 0.3063011882471409,
+        "id": "2c763d78-655f-4347-ae49-16fbc8d5b66e",
+        "created_at": "2026-11-11T06:16:06.982275+00:00",
+        "updated_at": "2026-11-11T06:16:06.982275+00:00"
+      },
+      {
+        "memory": "Melanie says painting is a fun way for her to express her feelings and get creative, and describes it as a great way to relax after a long day",
+        "score": 0.30522893333333334,
+        "id": "6637f9b0-3c27-4232-b32c-9d33c276ba49",
+        "created_at": "2026-11-11T06:11:00.164441+00:00",
+        "updated_at": "2026-11-11T06:11:00.164441+00:00"
+      },
+      {
+        "memory": "Caroline had a great day out with her friend group the weekend of November 7-8, 2026, going biking and seeing cool sights, which she found refreshing",
+        "score": 0.3041850682471409,
+        "id": "0dc08880-f196-4541-b476-b1447d87219f",
+        "created_at": "2026-11-11T06:19:08.527956+00:00",
+        "updated_at": "2026-11-11T06:19:08.527956+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie for the names of her dog and cat, calling them adorable and reiterating that pets bring so much joy",
+        "score": 0.30418310158047424,
+        "id": "758a21b2-cbb1-47a5-a9c8-bb021bb0a49e",
+        "created_at": "2026-11-11T06:13:42.054679+00:00",
+        "updated_at": "2026-11-11T06:13:42.054679+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on going after what she really cares about and shared a photo of a bookshelf filled with books in a room",
+        "score": 0.3038203882471409,
+        "id": "9de21c58-715d-421f-9a78-4fbf54ac81e1",
+        "created_at": "2026-11-11T06:12:30.056178+00:00",
+        "updated_at": "2026-11-11T06:12:30.056178+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie are planning a special summer trip together, just the two of them, as a chance to catch up and explore nature, and Caroline is excited about creating memories on the trip",
+        "score": 0.3029844215804743,
+        "id": "270d28eb-455f-4c64-a573-730fbc6db887",
+        "created_at": "2026-11-11T06:17:00.406191+00:00",
+        "updated_at": "2026-11-11T06:17:00.406191+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health, motivated by her own journey and the support she received, wanting to help people who have gone through similar experiences",
+        "score": 0.30239822158047425,
+        "id": "05ec2be7-e28e-47c1-bdc5-2b1624ebb726",
+        "created_at": "2026-11-11T06:12:30.037173+00:00",
+        "updated_at": "2026-11-11T06:12:30.037173+00:00"
+      },
+      {
+        "memory": "Caroline described the LGBT pride event she attended with the transgender teen she mentors as awesome and encouraging, saying she loved being surrounded by so much love and acceptance",
+        "score": 0.30229588824714093,
+        "id": "16effcd6-c86a-45ad-9f22-fa4c2c89e199",
+        "created_at": "2026-11-11T06:15:14.093902+00:00",
+        "updated_at": "2026-11-11T06:15:14.093902+00:00"
+      },
+      {
+        "memory": "Caroline complimented Melanie's recent photo of a woman and child walking on a trail, saying it's a great pic and asking if it's recent and whether they had fun",
+        "score": 0.3016311682471409,
+        "id": "40101c85-c9d0-4947-8e31-30c5f98922d1",
+        "created_at": "2026-11-11T06:20:44.815393+00:00",
+        "updated_at": "2026-11-11T06:20:44.815393+00:00"
+      },
+      {
+        "memory": "Caroline believes surrounding ourselves with things that bring us joy is important, saying life's too short to do anything else",
+        "score": 0.3014914549138076,
+        "id": "ddcfd465-faff-49f3-897c-5b6a307724b1",
+        "created_at": "2026-11-11T06:16:43.883036+00:00",
+        "updated_at": "2026-11-11T06:16:43.883036+00:00"
+      },
+      {
+        "memory": "Caroline agrees with Melanie that hanging out with loved ones is amazing and brings happiness, saying those moments make her thankful and that family is everything",
+        "score": 0.30114934158047424,
+        "id": "02fa8af0-a54f-475f-a00b-858bfc5d7ef2",
+        "created_at": "2026-11-11T06:12:03.287807+00:00",
+        "updated_at": "2026-11-11T06:12:03.287807+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have people around her who accept and support her, which reassures her that she'll be okay",
+        "score": 0.30066060158047425,
+        "id": "99b996fb-9302-4ded-aaf2-6cb0e669a81d",
+        "created_at": "2026-11-11T06:16:31.797752+00:00",
+        "updated_at": "2026-11-11T06:16:31.797752+00:00"
+      },
+      {
+        "memory": "Melanie finished another pottery project around November 11, 2026 and offered to share a picture of it with Caroline",
+        "score": 0.29987964158047425,
+        "id": "05cf7f64-6d8c-4def-acc2-2b86e9986d84",
+        "created_at": "2026-11-11T06:16:33.859295+00:00",
+        "updated_at": "2026-11-11T06:16:33.859295+00:00"
+      },
+      {
+        "memory": "Melanie has never been to a poetry reading and asked Caroline what it was about and what made it special",
+        "score": 0.29865508824714093,
+        "id": "4751911b-b1c6-4d91-9620-72a1f368976f",
+        "created_at": "2026-11-11T06:20:10.583357+00:00",
+        "updated_at": "2026-11-11T06:20:10.583357+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a sign that says 'trans lives matter' in connection with the transgender poetry reading she attended",
+        "score": 0.29843226158047426,
+        "id": "b7c94bb4-0981-41bc-b82d-adb832a9abb7",
+        "created_at": "2026-11-11T06:20:12.568154+00:00",
+        "updated_at": "2026-11-11T06:20:12.568154+00:00"
+      },
+      {
+        "memory": "Caroline asked Melanie to share more good memories that make her feel thankful for life, encouraging her to reflect on meaningful moments",
+        "score": 0.2975229149138076,
+        "id": "cd52735b-bf7b-43aa-b523-b4880b1658be",
+        "created_at": "2026-11-11T06:15:54.882703+00:00",
+        "updated_at": "2026-11-11T06:15:54.882703+00:00"
+      },
+      {
+        "memory": "Melanie says painting landscapes and still life is her favorite type of art, and she shared a recent painting of a sunflower on canvas",
+        "score": 0.2963187666666667,
+        "id": "a63a9a21-0560-431b-aee6-4f1d4d76f6b7",
+        "created_at": "2026-11-11T06:18:17.255658+00:00",
+        "updated_at": "2026-11-11T06:18:17.255658+00:00"
+      },
+      {
+        "memory": "Melanie told Caroline she has respect for her finding acceptance and helping others through what she's been through, calling her strong and inspiring",
+        "score": 0.2949124682471409,
+        "id": "4ea57041-d354-4e00-9047-ef8396f2cd90",
+        "created_at": "2026-11-11T06:21:10.499380+00:00",
+        "updated_at": "2026-11-11T06:21:10.499380+00:00"
+      },
+      {
+        "memory": "Caroline believes family support is hugely important and asked Melanie what else her family likes doing together, sharing a photo of a family walking through a forest with a toddler",
+        "score": 0.2948417415804742,
+        "id": "cbdf3fe9-9b28-4494-86b4-bc51d9a97593",
+        "created_at": "2026-11-11T06:14:51.866584+00:00",
+        "updated_at": "2026-11-11T06:14:51.866584+00:00"
+      },
+      {
+        "memory": "Caroline wants to pass on the same support she received to anyone who needs it, saying that bringing others comfort and helping them grow brings her joy",
+        "score": 0.2946429215804743,
+        "id": "d479d022-cc1b-4763-a66a-1c435676fd7b",
+        "created_at": "2026-11-11T06:21:12.200349+00:00",
+        "updated_at": "2026-11-11T06:21:12.200349+00:00"
+      },
+      {
+        "memory": "Melanie congratulated Caroline on her adoption step and asked how it feels and whether Caroline has any pets",
+        "score": 0.2941970215804743,
+        "id": "f1989912-8d8e-4c11-a960-b53d6f19e6a5",
+        "created_at": "2026-11-11T06:17:04.162154+00:00",
+        "updated_at": "2026-11-11T06:17:04.162154+00:00"
+      },
+      {
+        "memory": "Caroline has never tried pottery; she told Melanie she hasn't done it yet",
+        "score": 0.2941697749138076,
+        "id": "584606d4-b057-4cb8-bae1-5c17371c114f",
+        "created_at": "2026-11-11T06:17:47.799965+00:00",
+        "updated_at": "2026-11-11T06:17:47.799965+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a man playing a guitar in a recording studio",
+        "score": 0.2937904882471409,
+        "id": "2d01ca0c-88c1-4c8f-a0d8-9f426f765c01",
+        "created_at": "2026-11-11T06:18:51.675496+00:00",
+        "updated_at": "2026-11-11T06:18:51.675496+00:00"
+      },
+      {
+        "memory": "Caroline loved volunteering at the LGBTQ+ youth center around early November 2026, finding it awesome to see how strong the young people were despite the challenges they face, and felt fulfilled guiding and supporting them",
+        "score": 0.29363992,
+        "id": "a225f559-7450-433f-ac78-d2b494d89f27",
+        "created_at": "2026-11-11T06:18:33.993021+00:00",
+        "updated_at": "2026-11-11T06:18:33.993021+00:00"
+      }
+    ],
+    "search_latency_ms": 240.7,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline's painting for the art show — a vibrant, colorful piece featuring diverse representation — was inspired by her own journey of self-discovery and gender identity. She painted a blue-faced self-portrait as a way to explore and express her identity, saying painting makes her feel liberated and empowered and helps her be true to herself.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer addresses Caroline's painting inspiration around gender identity and self-discovery, which overlaps with the gold answer's theme of an LGBTQ center and unity/strength, capturing the same core concept of identity and empowerment."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Caroline's painting was inspired by her path as a trans woman — the red and blue background represents the binary gender system, and the mix of colors symbolizes smashing that rigid thinking, serving as a reminder to love her authentic self.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a different inspiration (her path as a trans woman, binary gender system) and does not mention visiting an LGBTQ center or capturing unity and strength, so none of the gold answer's items appear."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline's painting for her LGBTQ art show — a tree with a bright sun in the background — was inspired by visiting an LGBTQ center; she wanted to capture everyone's unity and strength.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer includes both correct items from the gold answer: visiting an LGBTQ center and wanting to capture unity and strength."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline's painting for the LGBTQ art show — a tree with a bright sun in the background — was inspired by her visit to an LGBTQ center. She wanted to capture everyone's unity and strength in the piece.",
+      "memories_evaluated": 200,
+      "reason": "The generated answer includes both correct items from the gold answer: visiting an LGBTQ center and wanting to capture unity and strength."
+    }
+  }
+}

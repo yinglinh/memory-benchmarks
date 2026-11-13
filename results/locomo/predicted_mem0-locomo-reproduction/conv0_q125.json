@@ -1,0 +1,463 @@
+{
+  "question_id": "conv0_q125",
+  "conversation_idx": 0,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where did Oliver hide his bone once?",
+  "ground_truth_answer": "In Melanie's slipper",
+  "evidence": [
+    "D13:6"
+  ],
+  "user_id": "locomo_0_ff458a1c",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Where did Oliver hide his bone once?",
+    "search_results": [
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in Melanie's slipper, which she finds hilarious",
+        "score": 0.6340042950836551,
+        "id": "8cb29f12-4147-4c5e-b31e-5922a7d50c3a",
+        "created_at": "2026-11-11T06:17:10.618780+00:00",
+        "updated_at": "2026-11-11T06:17:10.618780+00:00"
+      },
+      {
+        "memory": "Caroline thinks Melanie's cat Oliver is very cute and asked Melanie what the funniest thing Oliver has done is",
+        "score": 0.5837471884169884,
+        "id": "95d0262b-a78d-4e1a-8856-916bb5afaa1b",
+        "created_at": "2026-11-11T06:17:09.165703+00:00",
+        "updated_at": "2026-11-11T06:17:09.165703+00:00"
+      },
+      {
+        "memory": "Melanie has pets including a cat named Bailey (newly adopted) and a dog named Oliver; Oliver once hilariously hid his bone in Melanie's slipper",
+        "score": 0.5659558533333334,
+        "id": "6b471946-abfd-499e-8b2c-f780d0d1a3fd",
+        "created_at": "2026-11-11T06:17:14.457552+00:00",
+        "updated_at": "2026-11-11T06:17:14.457552+00:00"
+      },
+      {
+        "memory": "Melanie got another cat named Bailey, in addition to her dog Luna and cat Oliver, and shared a photo of Oliver",
+        "score": 0.5131175217503218,
+        "id": "aaa65834-a981-402e-b5ba-ff10adddcf27",
+        "created_at": "2026-11-11T06:17:07.378514+00:00",
+        "updated_at": "2026-11-11T06:17:07.378514+00:00"
+      },
+      {
+        "memory": "Melanie has two pets: a dog named Luna and a cat named Oliver, whom she describes as sweet and playful and who liven up the house",
+        "score": 0.4630454550836551,
+        "id": "dfd6a779-d603-48a8-9f34-c1fcb352a171",
+        "created_at": "2026-11-11T06:13:53.994259+00:00",
+        "updated_at": "2026-11-11T06:13:53.994259+00:00"
+      },
+      {
+        "memory": "Melanie's pets are named Luna and Oliver; she describes them as sweet and playful and says they liven up the house",
+        "score": 0.46186156841698844,
+        "id": "0a62a09f-279c-4309-b2a4-7cdc57398904",
+        "created_at": "2026-11-11T06:13:43.733530+00:00",
+        "updated_at": "2026-11-11T06:13:43.733530+00:00"
+      },
+      {
+        "memory": "Melanie has two pets: a dog and a cat, whose names are Luna and Oliver; she describes them as sweet and playful and says they liven up the house and bring her joy",
+        "score": 0.45578005508365504,
+        "id": "83f491f5-61d6-44e5-a181-e6a896a80375",
+        "created_at": "2026-11-11T06:13:56.559635+00:00",
+        "updated_at": "2026-11-11T06:13:56.559635+00:00"
+      },
+      {
+        "memory": "Melanie's pets are named Luna and Oliver, and she describes them as sweet and playful and as livening up the house",
+        "score": 0.4525323617503217,
+        "id": "5252f44f-ea99-49ab-8017-d5dd4754fa1d",
+        "created_at": "2026-11-11T06:13:46.670325+00:00",
+        "updated_at": "2026-11-11T06:13:46.670325+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of her guinea pig Oscar eating parsley in his cage with hay, noting that vegetables are Oscar's favorite food",
+        "score": 0.16819766666666666,
+        "id": "0c096224-717d-460c-b84f-5786ff99a24e",
+        "created_at": "2026-11-11T06:17:09.162699+00:00",
+        "updated_at": "2026-11-11T06:17:09.162699+00:00"
+      },
+      {
+        "memory": "Caroline has a guinea pig named Oscar who has been great; she shared a photo of him eating parsley, which are his favorite food",
+        "score": 0.14538729333333333,
+        "id": "c2997402-4c64-4150-9124-073342334c5d",
+        "created_at": "2026-11-11T06:17:14.449455+00:00",
+        "updated_at": "2026-11-11T06:17:14.449455+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a stained glass window depicting a person on a horse",
+        "score": 0.13912599333333334,
+        "id": "24c1a934-79d6-4d31-b301-13724ce1150d",
+        "created_at": "2026-11-11T06:17:55.634311+00:00",
+        "updated_at": "2026-11-11T06:17:55.634311+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a person holding a carrot in front of a horse",
+        "score": 0.12150808,
+        "id": "1b686142-e3df-4b6d-9f25-86058199da90",
+        "created_at": "2026-11-11T06:17:10.624204+00:00",
+        "updated_at": "2026-11-11T06:17:10.624204+00:00"
+      },
+      {
+        "memory": "Melanie asked Caroline to show her a picture of Caroline's guinea pig Oscar",
+        "score": 0.12095122666666668,
+        "id": "4be59677-ba36-4f6d-b3bd-33d270b4f61d",
+        "created_at": "2026-11-11T06:17:07.383504+00:00",
+        "updated_at": "2026-11-11T06:17:07.383504+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of three stained glass windows in a church with a clock",
+        "score": 0.11961190666666667,
+        "id": "c01685e3-a12c-43b4-aa68-8a487b59839f",
+        "created_at": "2026-11-11T06:17:58.538672+00:00",
+        "updated_at": "2026-11-11T06:17:58.538672+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her cat laying on the floor with its head down, in the context of introducing her pets",
+        "score": 0.11157597333333334,
+        "id": "7b58b7c0-6aa3-4368-9463-b9487bb8626e",
+        "created_at": "2026-11-11T06:13:40.579652+00:00",
+        "updated_at": "2026-11-11T06:13:40.579652+00:00"
+      },
+      {
+        "memory": "Caroline has always had a love for horses",
+        "score": 0.110965,
+        "id": "7d582654-a920-456d-812e-31b4eec99233",
+        "created_at": "2026-11-11T06:17:12.054870+00:00",
+        "updated_at": "2026-11-11T06:17:12.054870+00:00"
+      },
+      {
+        "memory": "Melanie recently painted a horse on a wooden wall and shared a photo of it",
+        "score": 0.11083437333333333,
+        "id": "de546f51-d16a-42b9-bc29-9e798320752c",
+        "created_at": "2026-11-11T06:17:14.459557+00:00",
+        "updated_at": "2026-11-11T06:17:14.459557+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a large stained glass window in a church",
+        "score": 0.11038765333333334,
+        "id": "fbb73dcb-0cbe-4abf-aca5-ba968d33df66",
+        "created_at": "2026-11-11T06:18:03.341542+00:00",
+        "updated_at": "2026-11-11T06:18:03.341542+00:00"
+      },
+      {
+        "memory": "Melanie recently got new shoes and shared a photo of pink sneakers being worn on a white rug",
+        "score": 0.10415333333333333,
+        "id": "4406d4ba-8b73-4e5f-b447-7ce8674349a3",
+        "created_at": "2026-11-11T06:13:43.741224+00:00",
+        "updated_at": "2026-11-11T06:13:43.741224+00:00"
+      },
+      {
+        "memory": "Melanie once got to feed a carrot to a horse, which she describes as a silly and memorable experience",
+        "score": 0.09839133333333333,
+        "id": "09dfa968-28ea-46d2-b659-5f3b3724a4a0",
+        "created_at": "2026-11-11T06:17:10.621929+00:00",
+        "updated_at": "2026-11-11T06:17:10.621929+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a guitar on display in a store",
+        "score": 0.09836340666666667,
+        "id": "ff5d8090-5d5f-4bf7-bbeb-e373bea41621",
+        "created_at": "2026-11-11T06:18:53.992567+00:00",
+        "updated_at": "2026-11-11T06:18:53.992567+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of one of her kids' finished pottery pieces from the workshop: a cup with a dog face on it",
+        "score": 0.09648913999999999,
+        "id": "b888c428-ed0e-4204-8664-6f51a5a3f4c1",
+        "created_at": "2026-11-11T06:14:07.139573+00:00",
+        "updated_at": "2026-11-11T06:14:07.139573+00:00"
+      },
+      {
+        "memory": "Caroline went hiking around early November 2026 and got into a bad situation with some people there; it really bothered her, so she tried to apologize to them and shared a photo of herself sitting on a site along with an apology letter",
+        "score": 0.08846272,
+        "id": "fd50a7b9-d2f4-466e-8315-448641b089c1",
+        "created_at": "2026-11-11T06:17:34.127163+00:00",
+        "updated_at": "2026-11-11T06:17:34.127163+00:00"
+      },
+      {
+        "memory": "Caroline is learning to play the piano as a new creative outlet",
+        "score": 0.08811215333333333,
+        "id": "f657da75-7d10-4965-a28f-e45c286fde50",
+        "created_at": "2026-11-11T06:12:37.300512+00:00",
+        "updated_at": "2026-11-11T06:12:37.300512+00:00"
+      },
+      {
+        "memory": "Caroline told Melanie it's sweet to see her love for her family and that her family really is her rock",
+        "score": 0.08546908666666668,
+        "id": "27cea36e-3a54-40c3-94c3-68eb351e318f",
+        "created_at": "2026-11-11T06:20:39.367684+00:00",
+        "updated_at": "2026-11-11T06:20:39.367684+00:00"
+      },
+      {
+        "memory": "Melanie is doing okay after her injury and has been reading a book Caroline recommended a while ago and painting to keep busy",
+        "score": 0.08323127333333334,
+        "id": "c4afbde4-33cf-4011-9a73-4b86d8683286",
+        "created_at": "2026-11-11T06:19:58.164703+00:00",
+        "updated_at": "2026-11-11T06:19:58.164703+00:00"
+      },
+      {
+        "memory": "Melanie recently got new purple/pink running shoes",
+        "score": 0.08313364,
+        "id": "c3e48bc0-e4d7-4553-9b74-2c579892fdcb",
+        "created_at": "2026-11-11T06:13:46.672917+00:00",
+        "updated_at": "2026-11-11T06:13:46.672917+00:00"
+      },
+      {
+        "memory": "Melanie bought new purple/pink running shoes for running, and has been running longer distances since her last chat with Caroline as a way to destress and clear her mind",
+        "score": 0.08293981333333333,
+        "id": "317af220-91f2-4e7a-93f4-727b60bc6d63",
+        "created_at": "2026-11-11T06:13:53.999233+00:00",
+        "updated_at": "2026-11-11T06:13:53.999233+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of two little girls sitting on the steps with a dog in the backyard, in the context of agreeing that pets are awesome for joy and comfort",
+        "score": 0.08268968666666666,
+        "id": "4eaeaed0-dbc2-4561-b2fb-5ad920519cca",
+        "created_at": "2026-11-11T06:13:37.714466+00:00",
+        "updated_at": "2026-11-11T06:13:37.714466+00:00"
+      },
+      {
+        "memory": "Melanie says her family's love and support helped her through tough times, and they went on another camping trip in the forest, sharing a photo of a man and two children sitting around a campfire",
+        "score": 0.08105496666666666,
+        "id": "0964fd18-7d43-40a5-b493-21568f13d645",
+        "created_at": "2026-11-11T06:14:50.380837+00:00",
+        "updated_at": "2026-11-11T06:14:50.380837+00:00"
+      },
+      {
+        "memory": "Caroline praised Melanie's horse painting, admiring the details and how Melanie captured the horse's grace and strength, and asked whether Melanie likes painting animals",
+        "score": 0.08059424666666666,
+        "id": "d8b38cee-97e7-4aed-b29c-764a192156dd",
+        "created_at": "2026-11-11T06:17:15.688158+00:00",
+        "updated_at": "2026-11-11T06:17:15.688158+00:00"
+      },
+      {
+        "memory": "Melanie expressed being in awe of Caroline's courage as a trans person and asked whether Caroline has made any more art lately, sharing a photo of a stained glass window with a person holding a key",
+        "score": 0.0802804,
+        "id": "ddf5befa-ff95-460b-8dbd-b4413a3b1a80",
+        "created_at": "2026-11-11T06:17:56.997786+00:00",
+        "updated_at": "2026-11-11T06:17:56.997786+00:00"
+      },
+      {
+        "memory": "Caroline told Melanie her kids look cute and said she bets they bring lots of joy, then asked how the kids handled the roadtrip car accident",
+        "score": 0.0788833,
+        "id": "6a3fd646-33e7-451f-883a-ee6dbfe043ff",
+        "created_at": "2026-11-11T06:20:31.097543+00:00",
+        "updated_at": "2026-11-11T06:20:31.097543+00:00"
+      },
+      {
+        "memory": "Caroline has a pet guinea pig named Oscar, whom she describes as great",
+        "score": 0.07883596666666666,
+        "id": "114d0c77-3f82-4466-912b-9ed5d99ffdcc",
+        "created_at": "2026-11-11T06:17:05.639825+00:00",
+        "updated_at": "2026-11-11T06:17:05.639825+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a pair of pink sneakers in a box, which she uses for running",
+        "score": 0.07699923733333333,
+        "id": "8af01e4a-a2cc-46b4-a3ee-cd2b779d4a47",
+        "created_at": "2026-11-11T06:14:02.824452+00:00",
+        "updated_at": "2026-11-11T06:14:02.824452+00:00"
+      },
+      {
+        "memory": "Caroline explained that her stained glass window was made for a local church and depicts time changing our lives; she created it to represent her own journey as a transgender woman and to show that we should accept growth and change",
+        "score": 0.07693377333333333,
+        "id": "3ae0cc9e-6938-4ce1-9aa0-0e14abd5d9c2",
+        "created_at": "2026-11-11T06:18:03.339199+00:00",
+        "updated_at": "2026-11-11T06:18:03.339199+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat as pets, saying they brighten up her day and always make her smile",
+        "score": 0.07683422,
+        "id": "8ca6d561-4f58-4aec-b722-441be07accd5",
+        "created_at": "2026-11-11T06:13:40.574380+00:00",
+        "updated_at": "2026-11-11T06:13:40.574380+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a man playing a guitar in a recording studio",
+        "score": 0.07473094266666667,
+        "id": "2d01ca0c-88c1-4c8f-a0d8-9f426f765c01",
+        "created_at": "2026-11-11T06:18:51.675496+00:00",
+        "updated_at": "2026-11-11T06:18:51.675496+00:00"
+      },
+      {
+        "memory": "Caroline finds it sweet and cute that Melanie's kids made a cup with a dog face, and thinks it's awesome to see how kids show their personalities through art",
+        "score": 0.07409042,
+        "id": "5871fab0-15a6-4379-8713-5df671dea29a",
+        "created_at": "2026-11-11T06:14:09.179811+00:00",
+        "updated_at": "2026-11-11T06:14:09.179811+00:00"
+      },
+      {
+        "memory": "Melanie says the roadtrip got off to a bad start and she was really scared when they got into the accident; she's thankful her son is okay and says it was a reminder that life is precious and to cherish family",
+        "score": 0.07385721333333332,
+        "id": "e0183146-3a8c-48b9-a6a7-d18c436cbc62",
+        "created_at": "2026-11-11T06:20:26.290952+00:00",
+        "updated_at": "2026-11-11T06:20:26.290952+00:00"
+      },
+      {
+        "memory": "Melanie went on a roadtrip the weekend before November 11, 2026, during which her son got into a car accident; everyone was freaked out but her son was okay, and she describes it as a real scary experience that is thankfully over now",
+        "score": 0.07369149733333334,
+        "id": "1d0657af-80e9-4869-860d-fdd778544f4a",
+        "created_at": "2026-11-11T06:20:23.345846+00:00",
+        "updated_at": "2026-11-11T06:20:23.345846+00:00"
+      },
+      {
+        "memory": "Caroline went hiking around early November 2026 (the week before November 11, 2026) and got into a bad spot with some people, which really bugged her, so she tried to apologize to them",
+        "score": 0.07321318,
+        "id": "37044672-2871-45d6-bf7a-a4838df11ca6",
+        "created_at": "2026-11-11T06:17:31.009400+00:00",
+        "updated_at": "2026-11-11T06:17:31.009400+00:00"
+      },
+      {
+        "memory": "Melanie and her kids just finished another painting similar to their last one",
+        "score": 0.07307709333333333,
+        "id": "7ae65281-75ef-4b83-8c71-7a30cbe28997",
+        "created_at": "2026-11-11T06:15:26.609435+00:00",
+        "updated_at": "2026-11-11T06:15:26.609435+00:00"
+      },
+      {
+        "memory": "Caroline says she has been chasing her ambitions and that a lot has happened since her last chat with Melanie",
+        "score": 0.07275328,
+        "id": "2b1a7693-1b09-4649-8b54-0b1e9abf6dc3",
+        "created_at": "2026-11-11T06:18:30.394449+00:00",
+        "updated_at": "2026-11-11T06:18:30.394449+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her black dog Luna laying in the grass with a frisbee in the backyard",
+        "score": 0.07264438266666666,
+        "id": "c7872ace-9b19-4167-b587-7528a27f61c8",
+        "created_at": "2026-11-11T06:17:07.381250+00:00",
+        "updated_at": "2026-11-11T06:17:07.381250+00:00"
+      },
+      {
+        "memory": "Caroline went hiking around early November 2026 and got into a bad spot with some people there; it really bugged her, so she tried to apologize to them",
+        "score": 0.07229750333333333,
+        "id": "e369ba58-49cf-4258-8fd6-1c1bd8c4ac09",
+        "created_at": "2026-11-11T06:17:47.792242+00:00",
+        "updated_at": "2026-11-11T06:17:47.792242+00:00"
+      },
+      {
+        "memory": "Caroline expressed sympathy for Melanie's injury and pottery break, saying pottery is a great way to relax and that taking a break must have been tough, and offered to help",
+        "score": 0.07225598666666667,
+        "id": "2a55fe78-efc2-400c-9f96-aee49d128ed5",
+        "created_at": "2026-11-11T06:19:55.676091+00:00",
+        "updated_at": "2026-11-11T06:19:55.676091+00:00"
+      },
+      {
+        "memory": "Melanie considers Matt Patterson very talented and loved his voice and songs at the concert",
+        "score": 0.07132054666666666,
+        "id": "f7898836-0abf-4070-9078-2a4f236ff775",
+        "created_at": "2026-11-11T06:16:08.827463+00:00",
+        "updated_at": "2026-11-11T06:16:08.827463+00:00"
+      },
+      {
+        "memory": "Caroline says art has allowed her to explore her transition and her changing body, and it's been a great way to work through what she's going through; she loves that it teaches her to accept the beauty of imperfections",
+        "score": 0.07103353333333333,
+        "id": "355b435c-37f0-4f7a-b5a3-d38f59914e84",
+        "created_at": "2026-11-11T06:16:26.606215+00:00",
+        "updated_at": "2026-11-11T06:16:26.606215+00:00"
+      },
+      {
+        "memory": "Melanie has never been to a poetry reading and asked Caroline what it was about and what made it special",
+        "score": 0.07046143333333334,
+        "id": "4751911b-b1c6-4d91-9620-72a1f368976f",
+        "created_at": "2026-11-11T06:20:10.583357+00:00",
+        "updated_at": "2026-11-11T06:20:10.583357+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat that brighten up her day and always make her smile",
+        "score": 0.06968129333333332,
+        "id": "393b8595-a07a-4468-86c2-900ba3f2a10a",
+        "created_at": "2026-11-11T06:13:46.664197+00:00",
+        "updated_at": "2026-11-11T06:13:46.664197+00:00"
+      },
+      {
+        "memory": "Melanie said her kids were scared after the roadtrip car accident but she and her family reassured them and explained their brother would be OK, describing them as tough kids",
+        "score": 0.06957532,
+        "id": "6175e0b2-857a-45d1-9c1e-a2779eedf561",
+        "created_at": "2026-11-11T06:20:32.441803+00:00",
+        "updated_at": "2026-11-11T06:20:32.441803+00:00"
+      },
+      {
+        "memory": "Melanie had a setback last month (around October 2026) when she got hurt and had to take a break from pottery, which she uses for self-expression and peace",
+        "score": 0.06957450999999999,
+        "id": "52009f1e-de20-47bf-b7a6-bc17f3146465",
+        "created_at": "2026-11-11T06:19:58.160874+00:00",
+        "updated_at": "2026-11-11T06:19:58.160874+00:00"
+      },
+      {
+        "memory": "Melanie had a setback last month (around October 2026) when she got hurt and had to take a break from pottery, which she uses for self-expression and peace",
+        "score": 0.06957448666666667,
+        "id": "a82c44d4-d3c4-4f82-bcd8-e7ff43a70d01",
+        "created_at": "2026-11-11T06:19:54.234815+00:00",
+        "updated_at": "2026-11-11T06:19:54.234815+00:00"
+      },
+      {
+        "memory": "Melanie spent the day volunteering at a homeless shelter with her family the day before November 11, 2026; she found it hard to see how neglected some people are but rewarding to feel they could make a difference",
+        "score": 0.06815212933333333,
+        "id": "411e6692-d10c-46ae-b9b6-064f7ccd5edb",
+        "created_at": "2026-11-11T06:17:45.146629+00:00",
+        "updated_at": "2026-11-11T06:17:45.146629+00:00"
+      },
+      {
+        "memory": "Melanie is carving out some me-time each day by running, reading, or playing her violin, which refreshes her and helps her stay present for her family",
+        "score": 0.06718956,
+        "id": "8121ad0d-bfb0-479c-9359-1b0703c7a516",
+        "created_at": "2026-11-11T06:11:10.221107+00:00",
+        "updated_at": "2026-11-11T06:11:10.221107+00:00"
+      },
+      {
+        "memory": "Caroline commented on Melanie's family picnic photo, saying it looks like they had a great day and that they all look so happy, and asked how it was",
+        "score": 0.06712074,
+        "id": "b149e623-f04d-4b20-a285-f0b6a4ae9a17",
+        "created_at": "2026-11-11T06:11:58.109393+00:00",
+        "updated_at": "2026-11-11T06:11:58.109393+00:00"
+      },
+      {
+        "memory": "Melanie recalls the day her youngest child took her first steps, describing how watching her wobble put into perspective how fleeting life is and how lucky she feels to share such moments",
+        "score": 0.06709142,
+        "id": "00db6699-c129-42f0-a8a4-1dc83b1535ae",
+        "created_at": "2026-11-11T06:16:02.271710+00:00",
+        "updated_at": "2026-11-11T06:16:02.271710+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a dog walking past a wall with a painting of a woman, in the context of discussing the LGBTQ support group",
+        "score": 0.06697035999999999,
+        "id": "e5d8bd3f-0362-4e97-8401-a11f9e2c2e08",
+        "created_at": "2026-11-11T06:10:46.037487+00:00",
+        "updated_at": "2026-11-11T06:10:46.037487+00:00"
+      }
+    ],
+    "search_latency_ms": 2403.1,
+    "total_results": 59
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Oliver once hid his bone in Melanie's slipper.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer, stating Oliver hid his bone in Melanie's slipper."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Oliver once hid his bone in Melanie's slipper.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer, stating Oliver hid his bone in Melanie's slipper."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Oliver hid his bone in Melanie's slipper.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer exactly matches the gold answer, stating Oliver hid his bone in Melanie's slipper."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Oliver once hid his bone in Melanie's slipper.",
+      "memories_evaluated": 59,
+      "reason": "The generated answer exactly matches the gold answer, stating Oliver hid his bone in Melanie's slipper."
+    }
+  }
+}

@@ -1,0 +1,4 @@
+services:
+  mem0:
+    volumes:
+      - ./docker/mem0/config.yaml:/app/config.yaml:ro
